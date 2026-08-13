@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-12T21:17:59Z",
+            "last_commit": "2026-08-13T09:25:29Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16616
+            "stars": 16617
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-04-29T14:51:46Z",
             "owner": "emitter-io",
             "repo": "emitter",
-            "stars": 4003
+            "stars": 4002
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-11T17:35:57Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 666
+            "stars": 697
           }
         },
         {
@@ -182,7 +182,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T15:43:51Z",
+            "last_commit": "2026-08-13T11:09:41Z",
             "owner": "hivemq",
             "repo": "mqtt-cli",
             "stars": 362
@@ -814,7 +814,7 @@
             "last_commit": "2023-12-08T08:18:28Z",
             "owner": "jeffallen",
             "repo": "mqtt",
-            "stars": 825
+            "stars": 826
           }
         },
         {
@@ -1504,10 +1504,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:35:52Z",
+            "last_commit": "2026-08-13T10:05:09Z",
             "owner": "maziggy",
             "repo": "bambuddy",
-            "stars": 2780
+            "stars": 2785
           }
         },
         {
@@ -2601,7 +2601,7 @@
             "last_commit": "2025-08-07T18:03:52Z",
             "owner": "node-red",
             "repo": "node-red-dashboard",
-            "stars": 1405
+            "stars": 1406
           }
         },
         {
@@ -2887,7 +2887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:44.473Z",
+    "last_updated": "2026-08-13T12:34:00.606Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_sha": "35328e2c5e899f66c4d339e69f32a2e2667cbd9d",
     "enhanced_repository": "enhansome/enhansome-mqtt",
