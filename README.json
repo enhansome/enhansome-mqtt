@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-13T21:18:10Z",
+            "last_commit": "2026-08-15T07:09:32Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16619
+            "stars": 16621
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-04-29T14:51:46Z",
             "owner": "emitter-io",
             "repo": "emitter",
-            "stars": 4003
+            "stars": 4002
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-21T15:38:07Z",
             "owner": "wind-c",
             "repo": "comqtt",
-            "stars": 1174
+            "stars": 1172
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-14T11:26:18Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 725
+            "stars": 753
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-13T02:58:25Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5021
+            "stars": 5019
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-12T23:23:16Z",
             "owner": "ScottFelder",
             "repo": "lazymqtt",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -448,7 +448,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-27T04:28:11Z",
+            "last_commit": "2026-08-14T20:13:01Z",
             "owner": "rpdswtk",
             "repo": "vsmqtt",
             "stars": 17
@@ -930,7 +930,7 @@
             "last_commit": "2026-07-31T12:13:27Z",
             "owner": "emqx",
             "repo": "CocoaMQTT",
-            "stars": 1748
+            "stars": 1747
           }
         },
         {
@@ -1504,10 +1504,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T12:26:39Z",
+            "last_commit": "2026-08-15T11:54:41Z",
             "owner": "maziggy",
             "repo": "bambuddy",
-            "stars": 2791
+            "stars": 2795
           }
         },
         {
@@ -1535,7 +1535,7 @@
             "last_commit": "2026-08-02T20:40:46Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -2186,10 +2186,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T07:14:26Z",
+            "last_commit": "2026-08-15T05:02:36Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9535
+            "stars": 9537
           }
         },
         {
@@ -2587,7 +2587,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6111
+            "stars": 6114
           }
         },
         {
@@ -2887,7 +2887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:29:12.791Z",
+    "last_updated": "2026-08-15T11:57:40.605Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_sha": "35328e2c5e899f66c4d339e69f32a2e2667cbd9d",
     "enhanced_repository": "enhansome/enhansome-mqtt",
