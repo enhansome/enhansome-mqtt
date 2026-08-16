@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-15T07:09:32Z",
+            "last_commit": "2026-08-15T21:05:42Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16621
+            "stars": 16624
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-04-29T14:51:46Z",
             "owner": "emitter-io",
             "repo": "emitter",
-            "stars": 4002
+            "stars": 4004
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-12T10:33:14Z",
             "owner": "moscajs",
             "repo": "aedes",
-            "stars": 1966
+            "stars": 1968
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-14T11:26:18Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 753
+            "stars": 783
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-13T02:58:25Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5019
+            "stars": 5022
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-09T17:40:11Z",
             "owner": "EdJoPaTo",
             "repo": "mqttui",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2019-08-23T15:00:39Z",
             "owner": "bapowell",
             "repo": "python-mqtt-client-shell",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -588,7 +588,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-29T12:07:00Z",
+            "last_commit": "2026-08-16T09:26:18Z",
             "owner": "labodj",
             "repo": "homie-home-assistant-discovery",
             "stars": 0
@@ -746,7 +746,7 @@
             "last_commit": "2026-08-09T13:20:52Z",
             "owner": "dotnet",
             "repo": "MQTTnet",
-            "stars": 5052
+            "stars": 5053
           }
         },
         {
@@ -1504,10 +1504,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:54:41Z",
+            "last_commit": "2026-08-16T11:43:25Z",
             "owner": "maziggy",
             "repo": "bambuddy",
-            "stars": 2795
+            "stars": 2798
           }
         },
         {
@@ -2186,10 +2186,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T05:02:36Z",
+            "last_commit": "2026-08-15T19:06:31Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9537
+            "stars": 9540
           }
         },
         {
@@ -2587,7 +2587,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6114
+            "stars": 6116
           }
         },
         {
@@ -2766,7 +2766,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T12:01:49Z",
+            "last_commit": "2026-08-16T10:34:20Z",
             "owner": "jmischler72",
             "repo": "mqtt-dashboard",
             "stars": 16
@@ -2865,7 +2865,7 @@
             "last_commit": "2024-08-09T09:29:44Z",
             "owner": "akamai-threat-research",
             "repo": "mqtt-pwn",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -2887,7 +2887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:57:40.605Z",
+    "last_updated": "2026-08-16T11:58:08.516Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_sha": "35328e2c5e899f66c4d339e69f32a2e2667cbd9d",
     "enhanced_repository": "enhansome/enhansome-mqtt",
