@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-17T09:12:19Z",
+            "last_commit": "2026-08-18T11:10:51Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16627
+            "stars": 16630
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-12T10:33:14Z",
             "owner": "moscajs",
             "repo": "aedes",
-            "stars": 1968
+            "stars": 1967
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T11:26:18Z",
+            "last_commit": "2026-08-18T00:16:07Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 815
+            "stars": 845
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-29T13:12:24Z",
             "owner": "ForestHubAI",
             "repo": "edge-agents",
-            "stars": 97
+            "stars": 98
           }
         }
       ],
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-17T05:45:43Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5024
+            "stars": 5025
           }
         },
         {
@@ -182,7 +182,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T10:55:12Z",
+            "last_commit": "2026-08-17T17:47:40Z",
             "owner": "hivemq",
             "repo": "mqtt-cli",
             "stars": 362
@@ -568,6 +568,20 @@
         },
         {
           "node_type": "item",
+          "title": "dsh-mqtt",
+          "description": "MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T09:44:28Z",
+            "owner": "UllrAI",
+            "repo": "dsh-mqtt",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "mqttcommander",
           "description": "A console-based MQTT client and commander, especially useful for IoT, Tasmota, and Node-RED setups.",
           "children": [],
@@ -746,7 +760,7 @@
             "last_commit": "2026-08-09T13:20:52Z",
             "owner": "dotnet",
             "repo": "MQTTnet",
-            "stars": 5053
+            "stars": 5054
           }
         },
         {
@@ -757,10 +771,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T09:44:01Z",
+            "last_commit": "2026-08-17T19:21:36Z",
             "owner": "hivemq",
             "repo": "hivemq-mqtt-client-dotnet",
-            "stars": 96
+            "stars": 97
           }
         }
       ],
@@ -1504,10 +1518,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:17:32Z",
+            "last_commit": "2026-08-18T11:44:07Z",
             "owner": "maziggy",
             "repo": "bambuddy",
-            "stars": 2804
+            "stars": 2813
           }
         },
         {
@@ -1756,7 +1770,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:08:23Z",
+            "last_commit": "2026-08-18T06:57:05Z",
             "owner": "arboeh",
             "repo": "huABus",
             "stars": 7
@@ -1967,7 +1981,7 @@
             "last_commit": "2026-07-06T11:28:45Z",
             "owner": "svrooij",
             "repo": "sonos2mqtt",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -2189,7 +2203,7 @@
             "last_commit": "2026-08-15T19:06:31Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9542
+            "stars": 9545
           }
         },
         {
@@ -2587,7 +2601,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6116
+            "stars": 6120
           }
         },
         {
@@ -2765,8 +2779,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:31:04Z",
+            "language": "Go",
+            "last_commit": "2026-08-18T09:09:49Z",
             "owner": "jmischler72",
             "repo": "mqtt-dashboard",
             "stars": 16
@@ -2887,9 +2901,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:01:08.448Z",
+    "last_updated": "2026-08-18T12:02:12.634Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
-    "original_repository_sha": "2f8d1aebe754ff5e95121594207783d42bacbed5",
+    "original_repository_sha": "dd649af22341b621e6291f013d7d619fbf496fd2",
     "enhanced_repository": "enhansome/enhansome-mqtt",
     "enhanced_repository_description": null,
     "title": "Awesome MQTT with stars"
