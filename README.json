@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:57:26Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16638
+            "stars": 16639
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 315620558,
             "language": "Java",
-            "last_commit": "2026-08-19T11:27:15Z",
+            "last_commit": "2026-08-19T12:13:43Z",
             "owner": "thingsboard",
             "repo": "tbmq",
             "stars": 751
@@ -2258,7 +2258,7 @@
                 "last_commit": "2026-08-17T18:44:13Z",
                 "owner": "hobbyquaker",
                 "repo": "she",
-                "stars": 8
+                "stars": 9
               }
             },
             {
@@ -3457,7 +3457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:01:31.189Z",
+    "last_updated": "2026-08-19T12:40:18.864Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_id": 44929620,
     "original_repository_sha": "dd649af22341b621e6291f013d7d619fbf496fd2",

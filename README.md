@@ -64,7 +64,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Brokers
 
-* [EMQ X](https://github.com/emqx/emqx) ⭐ 16,638 | 🐛 243 | 🌐 Erlang | 📅 2026-08-19 - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
+* [EMQ X](https://github.com/emqx/emqx) ⭐ 16,639 | 🐛 243 | 🌐 Erlang | 📅 2026-08-19 - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 * [Emitter](https://github.com/emitter-io/emitter) ⭐ 4,004 | 🐛 16 | 🌐 Go | 📅 2026-04-29 - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 * [Aedes](https://github.com/moscajs/aedes) ⭐ 1,967 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-12 - Barebone MQTT broker that can run on any stream server, the node way.
 * [comqtt](https://github.com/wind-c/comqtt) ⭐ 1,172 | 🐛 8 | 🌐 Go | 📅 2026-07-21 - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster.
@@ -460,7 +460,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [openHAB](https://github.com/openhab) - Includes a [MQTT binding](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding) ⚠️ Archived.
 * [ioBroker](https://github.com/ioBroker) - Includes a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt) ⭐ 58 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-12.
 * [openLuup](https://github.com/akbooer/openLuup) ⭐ 40 | 🐛 2 | 🌐 Lua | 📅 2025-02-02 - A pure-Lua open-source emulation of the Vera Luup home automation environment with MQTT.
-* [she - smart home engine](https://github.com/hobbyquaker/she) ⭐ 8 | 🐛 0 | 🌐 Svelte | 📅 2026-08-17 - Scriptable smart home automation engine with AI assistance.
+* [she - smart home engine](https://github.com/hobbyquaker/she) ⭐ 9 | 🐛 0 | 🌐 Svelte | 📅 2026-08-17 - Scriptable smart home automation engine with AI assistance.
 * [shopsavvy-mqtt](https://github.com/shopsavvy/shopsavvy-mqtt) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-03 - MQTT bridge that publishes product price data with Home Assistant MQTT discovery support.
 * [pimatic](https://pimatic.org/) - MQTT plugin included.
 * [knx2mqtt](https://c0d3.sh/smarthome/knx2mqtt) - Telegram bi-directional integration as alternative to HomeAssistant's built-in support.
