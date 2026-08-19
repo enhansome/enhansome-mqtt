@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-18T11:10:51Z",
+            "last_commit": "2026-08-19T08:57:26Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16630
+            "stars": 16638
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72274618,
             "language": "Go",
             "last_commit": "2026-04-29T14:51:46Z",
             "owner": "emitter-io",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31768514,
             "language": "JavaScript",
             "last_commit": "2026-08-12T10:33:14Z",
             "owner": "moscajs",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532420705,
             "language": "Go",
             "last_commit": "2026-07-21T15:38:07Z",
             "owner": "wind-c",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93101010,
             "language": "C",
             "last_commit": "2023-04-15T07:45:38Z",
             "owner": "martin-ger",
@@ -85,18 +85,124 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360278955,
             "language": "C",
             "last_commit": "2026-07-26T08:11:21Z",
             "owner": "eclipse-amlen",
             "repo": "amlen",
             "stars": 53
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Moquette",
+          "description": "Java MQTT lightweight broker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24653868,
+            "language": "Java",
+            "last_commit": "2026-08-18T10:53:39Z",
+            "owner": "moquette-io",
+            "repo": "moquette",
+            "stars": 2451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMQTT",
+          "description": "Kotlin Multiplatform MQTT broker, both embeddable and standalone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235132697,
+            "language": "Kotlin",
+            "last_commit": "2025-06-23T08:40:15Z",
+            "owner": "davidepianca98",
+            "repo": "KMQTT",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hrotti",
+          "description": "A MQTT broker written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17437289,
+            "language": "Go",
+            "last_commit": "2020-12-09T06:45:18Z",
+            "owner": "alsm",
+            "repo": "hrotti",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keel MQTT Gateway",
+          "description": "Distributed, cloud-native MQTT broker in Go built on mochi-mqtt, using Raft for strongly-consistent session ownership and ACL, with a gossip-backed routing table (Olric).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1314776638,
+            "language": "Go",
+            "last_commit": "2026-08-10T17:03:24Z",
+            "owner": "keel-iot",
+            "repo": "keel-mqtt-gateway",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tbmq",
+          "description": "Open-source, scalable, fault-tolerant and durable messaging broker for millions of IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315620558,
+            "language": "Java",
+            "last_commit": "2026-08-19T11:27:15Z",
+            "owner": "thingsboard",
+            "repo": "tbmq",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mystique",
+          "description": "An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102835891,
+            "language": "Go",
+            "last_commit": "2023-03-07T00:20:32Z",
+            "owner": "TheThingsIndustries",
+            "repo": "mystique",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrailMQ",
+          "description": "Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119495508,
+            "language": "Shell",
+            "last_commit": "2026-08-15T12:22:04Z",
+            "owner": "RainerGewalt",
+            "repo": "TrailMQ",
+            "stars": 4
+          }
         }
       ],
       "title": "Brokers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146448285,
             "language": "Java",
-            "last_commit": "2026-08-18T00:16:07Z",
+            "last_commit": "2026-08-19T10:39:06Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 845
+            "stars": 875
           }
         },
         {
@@ -119,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1243243191,
             "language": "TypeScript",
             "last_commit": "2026-07-29T13:12:24Z",
             "owner": "ForestHubAI",
@@ -130,7 +238,7 @@
       "title": "Platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -139,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188391577,
             "language": "TypeScript",
             "last_commit": "2026-08-17T05:45:43Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5025
+            "stars": 5026
           }
         },
         {
@@ -153,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303429896,
             "language": "Rust",
             "last_commit": "2026-08-09T17:40:11Z",
             "owner": "EdJoPaTo",
@@ -167,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16373473,
             "language": "JavaScript",
             "last_commit": "2023-07-27T07:46:44Z",
             "owner": "hivemq",
@@ -181,8 +292,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179662841,
             "language": "Java",
-            "last_commit": "2026-08-17T17:47:40Z",
+            "last_commit": "2026-08-18T23:36:41Z",
             "owner": "hivemq",
             "repo": "mqtt-cli",
             "stars": 362
@@ -195,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12757197,
             "language": "Python",
             "last_commit": "2021-08-18T12:20:54Z",
             "owner": "etactica",
@@ -209,8 +322,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1149453029,
             "language": "Go",
-            "last_commit": "2026-07-28T09:50:10Z",
+            "last_commit": "2026-08-18T22:43:27Z",
             "owner": "getmockd",
             "repo": "mockd",
             "stars": 142
@@ -223,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44631095,
             "language": "JavaScript",
             "last_commit": "2021-06-29T05:42:10Z",
             "owner": "hobbyquaker",
@@ -237,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21844716,
             "language": "Go",
             "last_commit": "2026-04-13T10:40:07Z",
             "owner": "shirou",
@@ -251,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3327531,
             "language": "JavaScript",
             "last_commit": "2012-03-16T14:38:34Z",
             "owner": "chirino",
@@ -265,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153247223,
             "language": "Vue",
             "last_commit": "2026-06-21T18:08:44Z",
             "owner": "flespi-software",
@@ -279,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3727571,
             "language": "Lua",
             "last_commit": "2015-09-04T06:15:52Z",
             "owner": "menudoproblema",
@@ -293,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35220613,
             "language": "Python",
             "last_commit": "2022-03-21T08:38:51Z",
             "owner": "WithSecureOpenSource",
@@ -307,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14257146,
             "language": "Objective-C",
             "last_commit": "2023-12-28T10:58:49Z",
             "owner": "ckrey",
@@ -321,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59440410,
             "language": "Python",
             "last_commit": "2019-08-23T15:00:39Z",
             "owner": "bapowell",
@@ -335,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46621051,
             "language": "JavaScript",
             "last_commit": "2020-12-08T22:55:43Z",
             "owner": "bastlirna",
@@ -349,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234756808,
             "language": "Go",
             "last_commit": "2026-06-19T09:39:33Z",
             "owner": "4nte",
@@ -358,11 +482,27 @@
         },
         {
           "node_type": "item",
+          "title": "LazyMQTT",
+          "description": "A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1310301759,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:23:16Z",
+            "owner": "ScottFelder",
+            "repo": "lazymqtt",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
           "title": "mqtt_recorder",
           "description": "Simple cli tool for recording and replaying MQTT messages.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276731045,
             "language": "Python",
             "last_commit": "2025-06-29T15:08:24Z",
             "owner": "rpdswtk",
@@ -372,25 +512,12 @@
         },
         {
           "node_type": "item",
-          "title": "LazyMQTT",
-          "description": "A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-12T23:23:16Z",
-            "owner": "ScottFelder",
-            "repo": "lazymqtt",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
           "title": "moxy",
           "description": "A Golang MQTT proxy providing useful output traces to monitor and troubleshoot your MQTT communications.",
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18491098,
             "language": "Go",
             "last_commit": "2019-03-19T10:48:52Z",
             "owner": "jvermillard",
@@ -405,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63798244,
             "language": "Python",
             "last_commit": "2016-08-05T11:51:10Z",
             "owner": "shafreeck",
@@ -419,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136631030,
             "language": "Python",
             "last_commit": "2025-08-01T18:49:05Z",
             "owner": "sdeancos",
@@ -433,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11199362,
             "language": "Java",
             "last_commit": "2013-07-10T22:32:09Z",
             "owner": "pidster-dot-org",
@@ -447,8 +577,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330236250,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:06:57Z",
+            "last_commit": "2026-08-19T11:06:21Z",
             "owner": "rpdswtk",
             "repo": "vsmqtt",
             "stars": 17
@@ -461,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176216075,
             "language": "Rust",
             "last_commit": "2026-07-03T15:28:40Z",
             "owner": "iotmertech",
@@ -475,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89857894,
             "language": "JavaScript",
             "last_commit": "2018-05-09T20:49:34Z",
             "owner": "hobbyquaker",
@@ -489,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10396720,
             "language": "JavaScript",
             "last_commit": "2013-10-20T20:33:44Z",
             "owner": "dsell",
@@ -503,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107422088,
             "language": "Python",
             "last_commit": "2023-07-13T13:23:53Z",
             "owner": "gambitcomminc",
@@ -517,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365265693,
             "language": "Python",
             "last_commit": "2022-05-04T14:29:46Z",
             "owner": "filipsPL",
@@ -531,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107573230,
             "language": "JavaScript",
             "last_commit": "2018-02-25T18:05:58Z",
             "owner": "hobbyquaker",
@@ -545,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171569485,
             "language": "Python",
             "last_commit": "2025-11-10T23:30:06Z",
             "owner": "poggenpower",
@@ -559,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272885231,
             "language": "TypeScript",
             "last_commit": "2026-07-27T02:22:33Z",
             "owner": "keyp-dev",
@@ -573,8 +712,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1337117366,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:44:28Z",
+            "last_commit": "2026-08-18T13:57:40Z",
             "owner": "UllrAI",
             "repo": "dsh-mqtt",
             "stars": 2
@@ -587,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1116272325,
             "language": "Python",
             "last_commit": "2026-02-26T14:33:02Z",
             "owner": "vroomfondel",
@@ -601,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224382851,
             "language": "TypeScript",
             "last_commit": "2026-08-16T09:26:18Z",
             "owner": "labodj",
@@ -615,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1312436637,
             "language": "TypeScript",
             "last_commit": "2026-08-17T07:14:18Z",
             "owner": "ibrahimilkhan",
@@ -629,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1329674543,
             "language": "TypeScript",
             "last_commit": "2026-08-10T10:00:18Z",
             "owner": "visoar",
@@ -640,332 +784,361 @@
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aiomqtt",
+              "description": "The idiomatic asyncio MQTT client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253497870,
+                "language": "Python",
+                "last_commit": "2026-04-23T22:27:15Z",
+                "owner": "empicano",
+                "repo": "aiomqtt",
+                "stars": 570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gmqtt",
+              "description": "Python MQTT v5.0 client (asyncio-based).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122037266,
+                "language": "Python",
+                "last_commit": "2026-06-14T09:20:48Z",
+                "owner": "wialon",
+                "repo": "gmqtt",
+                "stars": 450
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emqttc",
+              "description": "Asynchronous Erlang MQTT Client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7714416,
+                "language": "Erlang",
+                "last_commit": "2026-07-29T19:26:10Z",
+                "owner": "emqx",
+                "repo": "emqtt",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqttex",
+              "description": "MQTT implementation in Elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14975856,
+                "language": "Elixir",
+                "last_commit": "2015-05-14T05:58:10Z",
+                "owner": "alfert",
+                "repo": "mqttex",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Erlang or Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MQTT-C",
+              "description": "A portable MQTT C client for embedded systems and PCs alike.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125110883,
+                "language": "C",
+                "last_commit": "2024-05-12T05:19:51Z",
+                "owner": "LiamBindle",
+                "repo": "MQTT-C",
+                "stars": 895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt_cpp",
+              "description": "MQTT client for C++14 based on Boost.Asio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47496286,
+                "language": "C++",
+                "last_commit": "2026-02-12T01:00:04Z",
+                "owner": "redboltz",
+                "repo": "mqtt_cpp",
+                "stars": 483
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C or C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MQTTnet",
+              "description": "MQTT client and broker .NET implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85242321,
+                "language": "C#",
+                "last_commit": "2026-08-09T13:20:52Z",
+                "owner": "dotnet",
+                "repo": "MQTTnet",
+                "stars": 5057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HiveMQtt",
+              "description": "MQTT 5.0 compliant secure client with automatic back pressure management and TCP & WebSocket transport support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 559875418,
+                "language": "C#",
+                "last_commit": "2026-08-17T19:21:36Z",
+                "owner": "hivemq",
+                "repo": "hivemq-mqtt-client-dotnet",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C# / .NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "delphi-mqtt",
+              "description": "MQTT server and client components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4951817,
+                "language": "Pascal",
+                "last_commit": "2020-03-29T12:17:38Z",
+                "owner": "pjde",
+                "repo": "delphi-mqtt",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TMQTTClient",
+              "description": "MQTT Client Library for Delphi. Alpha and long term unmaintained.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46016429,
+                "language": "Pascal",
+                "last_commit": "2015-11-11T23:26:55Z",
+                "owner": "jamiei",
+                "repo": "Delphi-TMQTT2",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Delphi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MQTT for Go",
+              "description": "MQTT Clients, Servers and Load Testers in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14950961,
+                "language": "Go",
+                "last_commit": "2023-12-08T08:18:28Z",
+                "owner": "jeffallen",
+                "repo": "mqtt",
+                "stars": 825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-mqtt",
+              "description": "MQTT client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380777814,
+                "language": "Go",
+                "last_commit": "2021-07-02T17:00:14Z",
+                "owner": "go-mqtt",
+                "repo": "mqtt",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GoLang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MQTT-Client-Framework",
+              "description": "iOS, macOS, tvOS native ObjectiveC MQTT Client Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15845653,
+                "language": "Objective-C",
+                "last_commit": "2023-09-12T09:39:40Z",
+                "owner": "novastone-media",
+                "repo": "MQTT-Client-Framework",
+                "stars": 1882
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQTTKit",
+              "description": "MQTT Objective-C client for iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13857216,
+                "language": "C",
+                "last_commit": "2020-12-18T20:26:06Z",
+                "owner": "mobile-web-messaging",
+                "repo": "MQTTKit",
+                "stars": 461
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Objective-C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rumqtt",
+              "description": "A fast, lock free pure Rust MQTT client.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 54586776,
+                "language": "Rust",
+                "last_commit": "2020-03-05T19:56:30Z",
+                "owner": "AtherEnergy",
+                "repo": "rumqtt",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-rs",
+              "description": "MQTT protocol library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42571895,
+                "language": "Rust",
+                "last_commit": "2024-03-13T14:13:10Z",
+                "owner": "zonyitoo",
+                "repo": "mqtt-rs",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-typed-client",
+              "description": "Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026830603,
+                "language": "Rust",
+                "last_commit": "2026-07-28T05:57:14Z",
+                "owner": "holovskyi",
+                "repo": "mqtt-typed-client",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CocoaMQTT",
+              "description": "MQTT for iOS and macOS written with Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22326416,
+                "language": "Swift",
+                "last_commit": "2026-07-31T12:13:27Z",
+                "owner": "emqx",
+                "repo": "CocoaMQTT",
+                "stars": 1748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moscapsule",
+              "description": "MQTT Client for iOS written in Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27051166,
+                "language": "C",
+                "last_commit": "2026-08-14T11:51:29Z",
+                "owner": "flightonary",
+                "repo": "Moscapsule",
+                "stars": 274
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        }
+      ],
       "title": "Clients"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "aiomqtt",
-          "description": "The idiomatic asyncio MQTT client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-23T22:27:15Z",
-            "owner": "empicano",
-            "repo": "aiomqtt",
-            "stars": 570
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gmqtt",
-          "description": "Python MQTT v5.0 client (asyncio-based).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-14T09:20:48Z",
-            "owner": "wialon",
-            "repo": "gmqtt",
-            "stars": 450
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "emqttc",
-          "description": "Asynchronous Erlang MQTT Client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Erlang",
-            "last_commit": "2026-07-29T19:26:10Z",
-            "owner": "emqx",
-            "repo": "emqtt",
-            "stars": 438
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqttex",
-          "description": "MQTT implementation in Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2015-05-14T05:58:10Z",
-            "owner": "alfert",
-            "repo": "mqttex",
-            "stars": 45
-          }
-        }
-      ],
-      "title": "Erlang or Elixir"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MQTT-C",
-          "description": "A portable MQTT C client for embedded systems and PCs alike.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-12T05:19:51Z",
-            "owner": "LiamBindle",
-            "repo": "MQTT-C",
-            "stars": 895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt_cpp",
-          "description": "MQTT client for C++14 based on Boost.Asio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-12T01:00:04Z",
-            "owner": "redboltz",
-            "repo": "mqtt_cpp",
-            "stars": 483
-          }
-        }
-      ],
-      "title": "C or C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MQTTnet",
-          "description": "MQTT client and broker .NET implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-09T13:20:52Z",
-            "owner": "dotnet",
-            "repo": "MQTTnet",
-            "stars": 5054
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HiveMQtt",
-          "description": "MQTT 5.0 compliant secure client with automatic back pressure management and TCP & WebSocket transport support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T19:21:36Z",
-            "owner": "hivemq",
-            "repo": "hivemq-mqtt-client-dotnet",
-            "stars": 97
-          }
-        }
-      ],
-      "title": "C# / .NET"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "delphi-mqtt",
-          "description": "MQTT server and client components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2020-03-29T12:17:38Z",
-            "owner": "pjde",
-            "repo": "delphi-mqtt",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TMQTTClient",
-          "description": "MQTT Client Library for Delphi. Alpha and long term unmaintained.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2015-11-11T23:26:55Z",
-            "owner": "jamiei",
-            "repo": "Delphi-TMQTT2",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Delphi"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MQTT for Go",
-          "description": "MQTT Clients, Servers and Load Testers in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-12-08T08:18:28Z",
-            "owner": "jeffallen",
-            "repo": "mqtt",
-            "stars": 825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-mqtt",
-          "description": "MQTT client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-07-02T17:00:14Z",
-            "owner": "go-mqtt",
-            "repo": "mqtt",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "GoLang"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MQTT-Client-Framework",
-          "description": "iOS, macOS, tvOS native ObjectiveC MQTT Client Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2023-09-12T09:39:40Z",
-            "owner": "novastone-media",
-            "repo": "MQTT-Client-Framework",
-            "stars": 1882
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQTTKit",
-          "description": "MQTT Objective-C client for iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-12-18T20:26:06Z",
-            "owner": "mobile-web-messaging",
-            "repo": "MQTTKit",
-            "stars": 461
-          }
-        }
-      ],
-      "title": "Objective-C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rumqtt",
-          "description": "A fast, lock free pure Rust MQTT client.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2020-03-05T19:56:30Z",
-            "owner": "AtherEnergy",
-            "repo": "rumqtt",
-            "stars": 203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-rs",
-          "description": "MQTT protocol library for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-13T14:13:10Z",
-            "owner": "zonyitoo",
-            "repo": "mqtt-rs",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-typed-client",
-          "description": "Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-28T05:57:14Z",
-            "owner": "holovskyi",
-            "repo": "mqtt-typed-client",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CocoaMQTT",
-          "description": "MQTT for iOS and macOS written with Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-31T12:13:27Z",
-            "owner": "emqx",
-            "repo": "CocoaMQTT",
-            "stars": 1747
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moscapsule",
-          "description": "MQTT Client for iOS written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-14T11:51:29Z",
-            "owner": "flightonary",
-            "repo": "Moscapsule",
-            "stars": 274
-          }
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -974,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42357103,
             "language": "JavaScript",
             "last_commit": "2026-06-02T14:28:51Z",
             "owner": "hobbyquaker",
@@ -988,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28447178,
             "language": "Java",
             "last_commit": "2016-02-29T13:31:17Z",
             "owner": "owagner",
@@ -999,1596 +1174,1956 @@
       "title": "Scripting"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Basecamp",
+              "description": "An Arduino library to ease the use of the ESP32 in IoT projects. See c't Magazin 2'2018 (German).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 109980445,
+                "language": "C++",
+                "last_commit": "2020-01-10T16:47:56Z",
+                "owner": "ct-Open-Source",
+                "repo": "Basecamp",
+                "stars": 255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RFM69-MQTT-client",
+              "description": "Arduino RFM69 based sensors and MQTT gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28486148,
+                "language": "Arduino",
+                "last_commit": "2017-01-25T10:54:03Z",
+                "owner": "computourist",
+                "repo": "RFM69-MQTT-client",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deskmate",
+              "description": "A hackable & portable MQTT-powered mini dashboard and control center.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 311727300,
+                "language": "C++",
+                "last_commit": "2020-12-12T07:57:34Z",
+                "owner": "rbaron",
+                "repo": "deskmate",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rpi2mqtt",
+              "description": "Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42388894,
+                "language": "JavaScript",
+                "last_commit": "2018-01-05T10:01:35Z",
+                "owner": "hobbyquaker",
+                "repo": "rpi2mqtt",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xbee2mqtt",
+              "description": "XBee to MQTT gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6662473,
+                "language": "Python",
+                "last_commit": "2016-02-04T23:26:26Z",
+                "owner": "xoseperez",
+                "repo": "xbee2mqtt",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arduinoTemps2mqtt",
+              "description": "Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22913162,
+                "language": "Arduino",
+                "last_commit": "2015-07-26T11:15:06Z",
+                "owner": "matbor",
+                "repo": "arduinoTemps2mqtt",
+                "stars": 14
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pubsubclient",
+                  "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119789,
+                    "language": "C++",
+                    "last_commit": "2026-06-10T11:54:58Z",
+                    "owner": "knolleary",
+                    "repo": "pubsubclient",
+                    "stars": 4014
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "esp_mqtt",
+                  "description": "MQTT client library for ESP8266.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28503528,
+                    "language": "C",
+                    "last_commit": "2020-12-22T11:05:45Z",
+                    "owner": "tuanpmt",
+                    "repo": "esp_mqtt",
+                    "stars": 1172
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ESP32-BLE2MQTT",
+                  "description": "BLE to MQTT bridge, exposes BLE GATT characteristics as MQTT topics for bidirectional communication.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115448822,
+                    "language": "C",
+                    "last_commit": "2025-08-16T15:08:25Z",
+                    "owner": "shmuelzon",
+                    "repo": "esp32-ble2mqtt",
+                    "stars": 774
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ESP8266MQTTMesh",
+                  "description": "MQTT over mesh WiFi integrated library for ESP8266.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88312031,
+                    "language": "C++",
+                    "last_commit": "2025-02-22T10:15:07Z",
+                    "owner": "PhracturedBlue",
+                    "repo": "ESP8266MQTTMesh",
+                    "stars": 265
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mqtt-ir-transceiver",
+                  "description": "ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59493311,
+                    "language": "C++",
+                    "last_commit": "2020-11-17T18:02:31Z",
+                    "owner": "piotrC4",
+                    "repo": "mqtt-ir-transceiver",
+                    "stars": 143
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nodemcu-gpiomqtt",
+                  "description": "Lua script to connect ESP8266 GPIOs to MQTT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74830110,
+                    "language": "Lua",
+                    "last_commit": "2018-04-17T18:17:16Z",
+                    "owner": "hobbyquaker",
+                    "repo": "nodemcu-gpiomqtt",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ESP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sonoff-Tasmota",
+                  "description": "Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 80286288,
+                    "language": "C",
+                    "last_commit": "2026-08-19T08:50:21Z",
+                    "owner": "arendst",
+                    "repo": "Tasmota",
+                    "stars": 24713
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenMQTTGateway",
+                  "description": "MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68460326,
+                    "language": "C++",
+                    "last_commit": "2026-08-17T09:47:46Z",
+                    "owner": "1technophile",
+                    "repo": "OpenMQTTGateway",
+                    "stars": 4078
+                  }
+                }
+              ],
+              "description": "There are many inexpensive smart home Wi-Fi devices based on inexpensive ESP8266 chip (see: 1, 2, 3). Most of them can be reflashed with custom firmware. Here are complete firmwares to turn them into MQTT-controlled smart home nodes:",
+              "node_type": "group",
+              "title": "Firmwares for ESP based Devices"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Makers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CODESYS-MQTT",
+              "description": "A MQTT client for CODESYS PLC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140492001,
+                "language": null,
+                "last_commit": "2023-11-29T06:59:24Z",
+                "owner": "stefandreyer",
+                "repo": "CODESYS-MQTT",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2opcua",
+              "description": "Bi Directional MQTT to OPCUA Bridge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39475090,
+                "language": "JavaScript",
+                "last_commit": "2022-01-14T02:19:43Z",
+                "owner": "nzfarmer1",
+                "repo": "mqtt2opcua",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spicierModbus2mqtt",
+              "description": "Modbus master which publishes register values via MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152494810,
+                "language": "Python",
+                "last_commit": "2025-07-24T18:09:09Z",
+                "owner": "mbs38",
+                "repo": "spicierModbus2mqtt",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Industry"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sms2mqtt",
+              "description": "Docker Gateway to send/receive SMS through MQTT using an USB GSM dongle (gammu).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331938431,
+                "language": "Python",
+                "last_commit": "2025-11-24T15:30:26Z",
+                "owner": "Domochip",
+                "repo": "sms2mqtt",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sip2mqtt",
+              "description": "A SIP monitoring script that publishes incoming calls with CallerID to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77705977,
+                "language": "Python",
+                "last_commit": "2021-01-26T15:34:04Z",
+                "owner": "MartyTremblay",
+                "repo": "sip2mqtt",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agi-mqtt",
+              "description": "Interface between Asterisk and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19222521,
+                "language": null,
+                "last_commit": "2014-04-28T00:49:10Z",
+                "owner": "zeha",
+                "repo": "agi-mqtt",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fritz2mqtt",
+              "description": "Connect FRITZ!Box to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42305207,
+                "language": "JavaScript",
+                "last_commit": "2026-03-01T15:10:35Z",
+                "owner": "akentner",
+                "repo": "fritz2mqtt",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telephony, PBX"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mqttlauncher",
+              "description": "Execute shell commands triggered by published MQTT messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16139153,
+                "language": "Python",
+                "last_commit": "2024-11-16T22:51:16Z",
+                "owner": "jpmens",
+                "repo": "mqtt-launcher",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "psmqtt",
+              "description": "Utility reporting system health and status via MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54573987,
+                "language": "Python",
+                "last_commit": "2026-03-25T09:46:45Z",
+                "owner": "eschava",
+                "repo": "psmqtt",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WinThing",
+              "description": "Remotely control Windows through MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45562117,
+                "language": "Java",
+                "last_commit": "2021-04-13T17:47:14Z",
+                "owner": "msiedlarek",
+                "repo": "winthing",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqttwatchdir",
+              "description": "Recursively watch a directory for modifications and publish file content to an MQTT broker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12139680,
+                "language": "Python",
+                "last_commit": "2018-12-06T13:59:48Z",
+                "owner": "jpmens",
+                "repo": "mqtt-watchdir",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-os-status",
+              "description": "Operating-system related data, published to an MQTT broker at fixed intervals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17786547,
+                "language": "Shell",
+                "last_commit": "2014-04-07T22:09:58Z",
+                "owner": "oskarhagberg",
+                "repo": "mqtt-os-status",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqttpc",
+              "description": "Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61317234,
+                "language": "JavaScript",
+                "last_commit": "2023-09-05T11:46:50Z",
+                "owner": "hobbyquaker",
+                "repo": "mqttpc",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Operating System"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "check-mqtt",
+              "description": "A Nagios/Icinga plugin for checking connectivity to an MQTT broker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14138009,
+                "language": "Python",
+                "last_commit": "2026-02-11T10:11:11Z",
+                "owner": "jpmens",
+                "repo": "check-mqtt",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "notify-by-mqtt",
+              "description": "A Nagios/Icinga notification module which wraps data into JSON and fires it off to an MQTT broker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18442000,
+                "language": "Python",
+                "last_commit": "2022-09-13T16:36:30Z",
+                "owner": "jpmens",
+                "repo": "notify-by-mqtt",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2notifysend",
+              "description": "Subscribe to a topic and show notifications from MQTT messages on Ubuntu & other notify-send compatible Linux distros.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169920056,
+                "language": "Shell",
+                "last_commit": "2021-11-20T14:58:45Z",
+                "owner": "David-Lor",
+                "repo": "MQTT2NotifySend",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nag2mqtt",
+              "description": "Nagios event broker to MQTT gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50753320,
+                "language": "C",
+                "last_commit": "2017-10-01T16:42:43Z",
+                "owner": "DE-IBH",
+                "repo": "nag2mqtt",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ccusage-mqtt",
+              "description": "Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1240855330,
+                "language": "Python",
+                "last_commit": "2026-06-13T23:36:17Z",
+                "owner": "george-vice",
+                "repo": "ccusage-mqtt",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "influx4mqtt",
+              "description": "Subscribe to MQTT topics and insert into InfluxDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38576208,
+                "language": "JavaScript",
+                "last_commit": "2021-05-02T17:08:39Z",
+                "owner": "hobbyquaker",
+                "repo": "influx4mqtt",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graylog-plugin-mqtt",
+              "description": "MQTT Input Plugin for Graylog.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18847959,
+                "language": "Java",
+                "last_commit": "2024-05-06T09:14:49Z",
+                "owner": "graylog-labs",
+                "repo": "graylog-plugin-mqtt",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2elasticsearch",
+              "description": "Send MQTT messages to Elasticsearch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126588172,
+                "language": "JavaScript",
+                "last_commit": "2018-03-24T10:31:25Z",
+                "owner": "hobbyquaker",
+                "repo": "mqtt2elasticsearch",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqttcollect",
+              "description": "A collectd \"Exec\" plugin for MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35115425,
+                "language": "C",
+                "last_commit": "2016-06-13T14:14:45Z",
+                "owner": "jpmens",
+                "repo": "mqttcollect",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtthandler",
+              "description": "A Python logging handler module for MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56190379,
+                "language": "Python",
+                "last_commit": "2022-07-25T01:37:13Z",
+                "owner": "johannjhang",
+                "repo": "MQTTHandler.py",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2mongodb",
+              "description": "Subscribe to MQTT topics and insert into MongoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 174614173,
+                "language": "Python",
+                "last_commit": "2021-08-01T02:23:25Z",
+                "owner": "David-Lor",
+                "repo": "MQTT2MongoDB",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bambuddy",
+              "description": "Self-hosted management tool for Bambu Lab 3D printers using MQTT, with real-time monitoring, scheduling, and Home Assistant integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105867170,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:39:41Z",
+                "owner": "maziggy",
+                "repo": "bambuddy",
+                "stars": 2818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amcrest2mqtt",
+              "description": "Amcrest doorbell to MQTT bridge. Uses Home Assistant's MQTT discovery protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337177665,
+                "language": "Python",
+                "last_commit": "2023-04-22T17:25:25Z",
+                "owner": "dchesterton",
+                "repo": "amcrest2mqtt",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ble-scale-sync",
+              "description": "BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. Website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1133724679,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T13:27:03Z",
+                "owner": "KristianP26",
+                "repo": "ble-scale-sync",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "can2mqtt",
+              "description": "CAN-Bus - MQTT Bridge (also works vice versa).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75400208,
+                "language": "Rust",
+                "last_commit": "2026-05-03T18:43:12Z",
+                "owner": "c3re",
+                "repo": "can2mqtt",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aqara-mqtt",
+              "description": "Aqara (Xiaomi) Gateway to MQTT bridge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78819383,
+                "language": "Python",
+                "last_commit": "2021-03-13T23:16:48Z",
+                "owner": "monster1025",
+                "repo": "aqara-mqtt",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "knx2mqtt",
+              "description": "Interface between the KNX home automation standard and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27037515,
+                "language": "Java",
+                "last_commit": "2015-09-16T21:51:05Z",
+                "owner": "owagner",
+                "repo": "knx2mqtt",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "knx-mqtt-bridge",
+              "description": "Bridges KNX and MQTT using the knx.js library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139345617,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T15:53:09Z",
+                "owner": "pakerfeldt",
+                "repo": "knx-mqtt-bridge",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ipcam2mqtt",
+              "description": "A small FTP server to receive movement images from ipcameras and turn them into MQTT alerts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107658363,
+                "language": "JavaScript",
+                "last_commit": "2022-04-08T22:14:53Z",
+                "owner": "svrooij",
+                "repo": "ipcam2mqtt",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-unifi-protect-bridge",
+              "description": "Adding motion-status from UniFi Protect Cameras to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 222538794,
+                "language": "JavaScript",
+                "last_commit": "2024-10-18T15:08:22Z",
+                "owner": "terafin",
+                "repo": "mqtt-unifi-protect-bridge",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hm2mqtt.js",
+              "description": "Interface between EQ-3's Homematic line of smarthome devices and MQTT. Supports Homematic IP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88088758,
+                "language": "JavaScript",
+                "last_commit": "2019-01-06T13:26:33Z",
+                "owner": "hobbyquaker",
+                "repo": "hm2mqtt.js",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HS100toMQTT",
+              "description": "Gateway between TPLink HS100/HS110 and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103320183,
+                "language": "JavaScript",
+                "last_commit": "2021-04-25T04:18:22Z",
+                "owner": "dersimn",
+                "repo": "HS100toMQTT",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "homeeToMqtt",
+              "description": "Bidirectional Interface between homee and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123025593,
+                "language": "JavaScript",
+                "last_commit": "2022-09-20T06:45:21Z",
+                "owner": "odig",
+                "repo": "homeeToMqtt",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gardena2mqtt",
+              "description": "Docker Gateway to control GARDENA Smart system devices (Sileno mower, Irrigation Control, etc.) through MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349838776,
+                "language": "Python",
+                "last_commit": "2025-11-24T11:55:30Z",
+                "owner": "Domochip",
+                "repo": "gardena2mqtt",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eno2mqtt",
+              "description": "Interface between an Enocean USB300 (TCM310) adapter and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31984216,
+                "language": "Java",
+                "last_commit": "2016-05-20T17:45:12Z",
+                "owner": "owagner",
+                "repo": "eno2mqtt",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cul2mqtt",
+              "description": "Interface between Busware CUL (868MHz RF-Devices like ELV FS20, HMS, EM, etc.) and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42352763,
+                "language": "JavaScript",
+                "last_commit": "2018-02-05T20:20:17Z",
+                "owner": "hobbyquaker",
+                "repo": "cul2mqtt",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evohome2mqtt",
+              "description": "MQTT Interface for the Honeywell Evohome system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71469094,
+                "language": "JavaScript",
+                "last_commit": "2021-03-17T15:18:52Z",
+                "owner": "svrooij",
+                "repo": "evohome2mqtt",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "helios2mqtt",
+              "description": "A daemon for syncing a helios easy controls system like my KWL EC 220D to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105400945,
+                "language": "JavaScript",
+                "last_commit": "2026-02-28T04:34:18Z",
+                "owner": "mreschka",
+                "repo": "helios2mqtt",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aqara2mqtt",
+              "description": "Attach Aqara Smart Hubs to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147700954,
+                "language": "JavaScript",
+                "last_commit": "2018-09-28T17:43:44Z",
+                "owner": "hobbyquaker",
+                "repo": "aqara2mqtt",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huABus",
+              "description": "Home Assistant application (Add-on) and MQTT bridge for Huawei solar inverters (SUN2000/3000/5000).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1109110844,
+                "language": "Python",
+                "last_commit": "2026-08-18T06:57:05Z",
+                "owner": "arboeh",
+                "repo": "huABus",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-dss-bridge",
+              "description": "MQTT digitalSTROM-Server Bridge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37359121,
+                "language": "JavaScript",
+                "last_commit": "2015-09-24T13:26:29Z",
+                "owner": "cgHome",
+                "repo": "mqtt-dss-bridge",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "domiqtt",
+              "description": "Connects to a Domiq Base (LCN) and translate from and to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74461810,
+                "language": "JavaScript",
+                "last_commit": "2026-05-28T23:50:37Z",
+                "owner": "etobi",
+                "repo": "domiqtt",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zigbee2mqtt",
+              "description": "Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128636610,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T20:09:27Z",
+                "owner": "Koenkk",
+                "repo": "zigbee2mqtt",
+                "stars": 15511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zwavejs2mqtt",
+              "description": "Zwave to Mqtt gateway and Control Panel Web UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305933027,
+                "language": "Vue",
+                "last_commit": "2026-08-14T09:02:06Z",
+                "owner": "zwave-js",
+                "repo": "zwave-js-ui",
+                "stars": 1236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "smartthings-mqtt-bridge",
+              "description": "Bridge between SmartThings and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50438488,
+                "language": "Groovy",
+                "last_commit": "2025-11-16T23:47:13Z",
+                "owner": "stjohnjohnson",
+                "repo": "smartthings-mqtt-bridge",
+                "stars": 379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-lox-mqtt-gateway",
+              "description": "Gateway for Loxone™ mini server to communicate with MQTT broker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67114849,
+                "language": "JavaScript",
+                "last_commit": "2020-02-03T07:52:54Z",
+                "owner": "alladdin",
+                "repo": "node-lox-mqtt-gateway",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xiaomi2mqtt",
+              "description": "Bridge between the Xiaomi Smart Home Gateway Aquara and a MQTT server.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99600217,
+                "language": "JavaScript",
+                "last_commit": "2020-04-17T17:17:41Z",
+                "owner": "svrooij",
+                "repo": "node-xiaomi2mqtt",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Home Hardware Interfaces"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openHAB",
+              "description": "Includes a MQTT binding.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12983151,
+                "language": "Java",
+                "last_commit": "2021-01-18T20:08:08Z",
+                "owner": "openhab",
+                "repo": "openhab1-addons",
+                "stars": 3397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ioBroker",
+              "description": "Includes a MQTT adapter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25130895,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T04:27:36Z",
+                "owner": "ioBroker",
+                "repo": "ioBroker.mqtt",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openLuup",
+              "description": "A pure-Lua open-source emulation of the Vera Luup home automation environment with MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44327767,
+                "language": "Lua",
+                "last_commit": "2025-02-02T17:26:32Z",
+                "owner": "akbooer",
+                "repo": "openLuup",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "she - smart home engine",
+              "description": "Scriptable smart home automation engine with AI assistance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1253740602,
+                "language": "Svelte",
+                "last_commit": "2026-08-17T18:44:13Z",
+                "owner": "hobbyquaker",
+                "repo": "she",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shopsavvy-mqtt",
+              "description": "MQTT bridge that publishes product price data with Home Assistant MQTT discovery support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200687685,
+                "language": "TypeScript",
+                "last_commit": "2026-04-03T17:57:15Z",
+                "owner": "shopsavvy",
+                "repo": "shopsavvy-mqtt",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Home Integration Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arilux_AL-LC0X",
+              "description": "This is an alternative firmware for Arilux LED controllers which uses MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 72933859,
+                "language": "C++",
+                "last_commit": "2019-08-09T12:38:52Z",
+                "owner": "SamZorSec",
+                "repo": "Arilux_AL-LC0X",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TRADFRI2MQTT",
+              "description": "MQTT Bridge for IKEA TRÅDFRI Light Gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87621687,
+                "language": "Java",
+                "last_commit": "2020-10-12T22:00:53Z",
+                "owner": "hardillb",
+                "repo": "TRADFRI2MQTT",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQTT DMX Controller",
+              "description": "DMX Controller with MQTT support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98744251,
+                "language": "JavaScript",
+                "last_commit": "2019-06-13T20:27:07Z",
+                "owner": "hobbyquaker",
+                "repo": "mqtt-dmx-controller",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hue2mqtt.js",
+              "description": "Interface between the Philips Hue bridge and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89808080,
+                "language": "JavaScript",
+                "last_commit": "2020-01-01T17:16:56Z",
+                "owner": "hobbyquaker",
+                "repo": "hue2mqtt.js",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-dmx-sequencer",
+              "description": "Headless counterpart to MQTT DMX Controller - use scenes and sequences exported from the MQTT DMX Controller and control them via MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42352434,
+                "language": "JavaScript",
+                "last_commit": "2018-01-05T09:58:41Z",
+                "owner": "hobbyquaker",
+                "repo": "mqtt-dmx-sequencer",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sunricher-wifi-mqtt",
+              "description": "Control Sunricher LED devices using MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 89917222,
+                "language": "Java",
+                "last_commit": "2022-01-04T16:30:52Z",
+                "owner": "magcode",
+                "repo": "sunricher-wifi-mqtt",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chromoflex2mqtt",
+              "description": "Control Chromoflex USP3 RGB LED modules via MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47462550,
+                "language": "Python",
+                "last_commit": "2015-12-05T16:46:27Z",
+                "owner": "owagner",
+                "repo": "chromoflex2mqtt",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lighting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "harmony-api",
+              "description": "A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40428048,
+                "language": "JavaScript",
+                "last_commit": "2020-04-14T14:52:16Z",
+                "owner": "maddox",
+                "repo": "harmony-api",
+                "stars": 401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "broadlink-mqtt",
+              "description": "MQTT client to control BroadLink RM devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76959877,
+                "language": "Python",
+                "last_commit": "2024-05-27T15:22:38Z",
+                "owner": "eschava",
+                "repo": "broadlink-mqtt",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lgtv2mqtt",
+              "description": "Interface between LG WebOS Smart TVs and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47511828,
+                "language": "JavaScript",
+                "last_commit": "2023-01-17T17:59:20Z",
+                "owner": "hobbyquaker",
+                "repo": "lgtv2mqtt",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kodi2mqtt",
+              "description": "Interface between a Kodi media center instance and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32610643,
+                "language": "Python",
+                "last_commit": "2021-03-07T16:57:18Z",
+                "owner": "owagner",
+                "repo": "kodi2mqtt",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sonos2mqtt",
+              "description": "A bridge between Sonos and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107399334,
+                "language": "TypeScript",
+                "last_commit": "2026-07-06T11:28:45Z",
+                "owner": "svrooij",
+                "repo": "sonos2mqtt",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "airtunes2mqtt",
+              "description": "MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42357946,
+                "language": "JavaScript",
+                "last_commit": "2018-11-26T20:16:49Z",
+                "owner": "hobbyquaker",
+                "repo": "airtunes2mqtt",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chromecast-mqtt-connector",
+              "description": "Control your Google Chromecast devices using MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72956187,
+                "language": "Python",
+                "last_commit": "2024-03-15T10:15:47Z",
+                "owner": "nohum",
+                "repo": "chromecast-mqtt-connector",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "onkyo2mqtt",
+              "description": "Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28102994,
+                "language": "Python",
+                "last_commit": "2021-03-30T10:20:42Z",
+                "owner": "owagner",
+                "repo": "onkyo2mqtt",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lirc2mqtt",
+              "description": "Send and receive infrared via LIRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45354461,
+                "language": "JavaScript",
+                "last_commit": "2020-01-07T20:14:29Z",
+                "owner": "hobbyquaker",
+                "repo": "lirc2mqtt",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mopidy-mqtt",
+              "description": "MQTT features for Mopidy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97401929,
+                "language": "Python",
+                "last_commit": "2023-12-14T19:48:19Z",
+                "owner": "magcode",
+                "repo": "mopidy-mqtt",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bravia2mqtt",
+              "description": "Control your Sony Bravia TV with MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90556226,
+                "language": null,
+                "last_commit": "2023-01-12T06:52:45Z",
+                "owner": "forty2",
+                "repo": "bravia2mqtt",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yamaha-avr2mqtt",
+              "description": "A simple adapter for connection Yamaha AVR to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43314459,
+                "language": "JavaScript",
+                "last_commit": "2026-03-01T16:25:14Z",
+                "owner": "akentner",
+                "repo": "yamaha-avr2mqtt",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQTT-DashCast-Docker",
+              "description": "MQTT Docker to launch DashCast session on Chromecast.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124169435,
+                "language": "Python",
+                "last_commit": "2018-03-07T03:31:33Z",
+                "owner": "mukw-labs",
+                "repo": "MQTT-DashCast-Docker",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2tivoremote",
+              "description": "Make TiVo DVR remote control available through an MQTT smarthome style interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90517695,
+                "language": "JavaScript",
+                "last_commit": "2020-06-02T23:54:35Z",
+                "owner": "forty2",
+                "repo": "mqtt2tivoremote",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xbmc2mqtt",
+              "description": "A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15056733,
+                "language": "Python",
+                "last_commit": "2015-03-17T10:29:45Z",
+                "owner": "gordonjcp",
+                "repo": "xbmc-mqtt",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "htd2mqtt",
+              "description": "Bridge between an HTD Lync audio system and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71738619,
+                "language": "JavaScript",
+                "last_commit": "2016-10-30T19:53:00Z",
+                "owner": "TheOriginalAndrobot",
+                "repo": "htd2mqtt",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2atlonamatrix",
+              "description": "Control Atlona HDMI matrix switches with MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90522474,
+                "language": "JavaScript",
+                "last_commit": "2018-01-05T10:07:51Z",
+                "owner": "forty2",
+                "repo": "mqtt2atlonamatrix",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Home Entertainment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rpi-mqtt-monitor",
+              "description": "The easiest way to track your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant via MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259331118,
+                "language": "Python",
+                "last_commit": "2026-06-26T19:45:37Z",
+                "owner": "hjelev",
+                "repo": "rpi-mqtt-monitor",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bcontrol2mqtt",
+              "description": "Publish measurements from TQ Energy Manager / Busch-Jäger Energy Monitor to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42352962,
+                "language": "JavaScript",
+                "last_commit": "2018-02-05T20:35:39Z",
+                "owner": "hobbyquaker",
+                "repo": "bcontrol2mqtt",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Metering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Valetudo",
+              "description": "Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140675080,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T19:06:31Z",
+                "owner": "Hypfer",
+                "repo": "Valetudo",
+                "stars": 9547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "miflora-mqtt-daemon",
+              "description": "Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98347412,
+                "language": "Python",
+                "last_commit": "2024-05-23T19:51:52Z",
+                "owner": "ThomDietrich",
+                "repo": "miflora-mqtt-daemon",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bt-mqtt-gateway",
+              "description": "Easily extensible Bluetooth to MQTT gateway, currently supports: EQ3 smart thermostat, Xiaomi Mi Scale, Linak Desk, MySensors and Xiaomi Mi Flora plant sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 111714643,
+                "language": "Python",
+                "last_commit": "2023-10-26T19:06:29Z",
+                "owner": "zewelor",
+                "repo": "bt-mqtt-gateway",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-camera-streamer",
+              "description": "Stream images from a connected camera over MQTT & view using Streamlit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198009047,
+                "language": "Python",
+                "last_commit": "2024-08-12T19:17:40Z",
+                "owner": "robmarkcole",
+                "repo": "mqtt-camera-streamer",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gBridge",
+              "description": "Control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 134185596,
+                "language": "PHP",
+                "last_commit": "2022-10-10T10:57:50Z",
+                "owner": "kservices",
+                "repo": "gBridge",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "serial2mqtt",
+              "description": "A Linux gateway to connect low-cost microcontrollers only with a serial port to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69822684,
+                "language": "C++",
+                "last_commit": "2025-09-22T15:47:56Z",
+                "owner": "vortex314",
+                "repo": "serial2mqtt",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqttclpro",
+              "description": "MQTT Client with tasker integration Android app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74649238,
+                "language": "Java",
+                "last_commit": "2020-03-14T20:44:52Z",
+                "owner": "deepessh",
+                "repo": "mqttclpro",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AlexaMqttBridge",
+              "description": "Bridge between Amazon Alexa and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77464973,
+                "language": "JavaScript",
+                "last_commit": "2019-01-13T22:47:55Z",
+                "owner": "mhdawson",
+                "repo": "AlexaMqttBridge",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unifi2mqtt",
+              "description": "Publish connected clients from Ubiquiti Unifi to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119074391,
+                "language": "JavaScript",
+                "last_commit": "2020-08-07T23:16:30Z",
+                "owner": "hobbyquaker",
+                "repo": "unifi2mqtt",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-mqtt-for-anki-overdrive",
+              "description": "Node.js Controller and MQTT API for Anki Overdrive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49125605,
+                "language": "JavaScript",
+                "last_commit": "2018-09-10T14:55:24Z",
+                "owner": "IBM-Cloud",
+                "repo": "node-mqtt-for-anki-overdrive",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "leaf-python-mqtt",
+              "description": "Extract data from Nissan Leaf API and post to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77413715,
+                "language": "Python",
+                "last_commit": "2018-08-02T02:15:16Z",
+                "owner": "glynhudson",
+                "repo": "leaf-python-mqtt",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt2ble",
+              "description": "A way to bridge MQTT topics to BLE Gatt characteristics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39831985,
+                "language": "JavaScript",
+                "last_commit": "2016-12-13T13:50:14Z",
+                "owner": "hardillb",
+                "repo": "mqtt2ble",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqttDB",
+              "description": "A JSON store with MQTT interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90059464,
+                "language": "JavaScript",
+                "last_commit": "2018-05-30T21:31:49Z",
+                "owner": "hobbyquaker",
+                "repo": "mqttDB",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chrome2mqtt",
+              "description": "Python program to enable MQTT control endpoints for chromecasts (both audio and video).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80116748,
+                "language": "Python",
+                "last_commit": "2025-09-20T07:37:53Z",
+                "owner": "tbowmo",
+                "repo": "chrome2mqtt",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "buderus2mqtt",
+              "description": "Bridge between Buderus KM200 internet gateway and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38959123,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T15:15:15Z",
+                "owner": "krambox",
+                "repo": "buderus2mqtt",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parrot-sample",
+              "description": "Sample code which uses MQTT to control a Parrot AR Drone.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 36517420,
+                "language": "JavaScript",
+                "last_commit": "2017-09-27T02:09:58Z",
+                "owner": "IBM-Cloud",
+                "repo": "parrot-sample",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "homely",
+              "description": "Collection of Go daemons for connecting Domoticz and other stuff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70327680,
+                "language": "Go",
+                "last_commit": "2021-11-11T19:54:05Z",
+                "owner": "baol",
+                "repo": "homely",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dashbutton2mqtt",
+              "description": "Publish Amazon Dash Button presses to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67301213,
+                "language": "JavaScript",
+                "last_commit": "2018-01-05T09:54:15Z",
+                "owner": "hobbyquaker",
+                "repo": "dashbutton2mqtt",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-transformer",
+              "description": "A simple service which consumes, transforms and periodically republish json messages on MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284691015,
+                "language": "TypeScript",
+                "last_commit": "2026-07-24T10:31:31Z",
+                "owner": "tg44",
+                "repo": "mqtt-transformer",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "speedtest2mqtt",
+              "description": "Run speedtest-cli and publish results via MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120669757,
+                "language": "Shell",
+                "last_commit": "2018-02-09T23:28:07Z",
+                "owner": "hobbyquaker",
+                "repo": "speedtest2mqtt",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "haiku2mqtt",
+              "description": "A bridge between Haiku smart fans and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67465839,
+                "language": "JavaScript",
+                "last_commit": "2018-01-05T10:05:55Z",
+                "owner": "forty2",
+                "repo": "haiku2mqtt",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQTT Joystick Controller",
+              "description": "Open Source Android app that lets you control everything with your smartphone. Download it from Google Play.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254113784,
+                "language": "Java",
+                "last_commit": "2020-04-27T07:55:36Z",
+                "owner": "Vincenzo-Petrolo",
+                "repo": "MQTT-Joystick-Controller",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuIXI",
+              "description": "Bridge between the Ixian decentralized P2P network and MQTT/REST. Enables encrypted peer-to-peer messaging for IoT devices with post-quantum security (ML-KEM + AES-256 + ChaCha20).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1029364779,
+                "language": "C#",
+                "last_commit": "2026-08-10T16:55:11Z",
+                "owner": "ixian-platform",
+                "repo": "QuIXI",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flowerpower2mqtt",
+              "description": "Publish measurements from Parrot Flower Power plant sensors to MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43172060,
+                "language": "JavaScript",
+                "last_commit": "2018-01-05T10:05:29Z",
+                "owner": "hobbyquaker",
+                "repo": "flowerpower2mqtt",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snowboy2mqtt",
+              "description": "Publish MQTT Messages on Snowboy Hotword Detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154701766,
+                "language": "JavaScript",
+                "last_commit": "2018-10-25T16:55:06Z",
+                "owner": "hobbyquaker",
+                "repo": "snowboy2mqtt",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kobold2mqtt",
+              "description": "Bridge between Vorwerk Kobold Vr200 internet gateway and MQTT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109099754,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T17:34:11Z",
+                "owner": "krambox",
+                "repo": "kobold2mqtt",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mqtt-tasker",
+              "description": "Android Tasker mqtt plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76999467,
+                "language": "Java",
+                "last_commit": "2016-12-29T16:41:28Z",
+                "owner": "stesie",
+                "repo": "TaskerMqtt",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQTT2ETCD",
+              "description": "MQTT-ETCD gateway: PUT keys on ETCD through MQTT, and watch ETCD key changes on MQTT topics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217742525,
+                "language": "Python",
+                "last_commit": "2019-11-08T20:08:52Z",
+                "owner": "David-Lor",
+                "repo": "MQTT2ETCD",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        }
+      ],
       "title": "Interfaces"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Basecamp",
-          "description": "An Arduino library to ease the use of the ESP32 in IoT projects. See c't Magazin 2'2018 (German).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2020-01-10T16:47:56Z",
-            "owner": "ct-Open-Source",
-            "repo": "Basecamp",
-            "stars": 255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RFM69-MQTT-client",
-          "description": "Arduino RFM69 based sensors and MQTT gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Arduino",
-            "last_commit": "2017-01-25T10:54:03Z",
-            "owner": "computourist",
-            "repo": "RFM69-MQTT-client",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deskmate",
-          "description": "A hackable & portable MQTT-powered mini dashboard and control center.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2020-12-12T07:57:34Z",
-            "owner": "rbaron",
-            "repo": "deskmate",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rpi2mqtt",
-          "description": "Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-05T10:01:35Z",
-            "owner": "hobbyquaker",
-            "repo": "rpi2mqtt",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xbee2mqtt",
-          "description": "XBee to MQTT gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-02-04T23:26:26Z",
-            "owner": "xoseperez",
-            "repo": "xbee2mqtt",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arduinoTemps2mqtt",
-          "description": "Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Arduino",
-            "last_commit": "2015-07-26T11:15:06Z",
-            "owner": "matbor",
-            "repo": "arduinoTemps2mqtt",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Makers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pubsubclient",
-          "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-10T11:54:58Z",
-            "owner": "knolleary",
-            "repo": "pubsubclient",
-            "stars": 4014
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "esp_mqtt",
-          "description": "MQTT client library for ESP8266.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-12-22T11:05:45Z",
-            "owner": "tuanpmt",
-            "repo": "esp_mqtt",
-            "stars": 1172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32-BLE2MQTT",
-          "description": "BLE to MQTT bridge, exposes BLE GATT characteristics as MQTT topics for bidirectional communication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-08-16T15:08:25Z",
-            "owner": "shmuelzon",
-            "repo": "esp32-ble2mqtt",
-            "stars": 774
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP8266MQTTMesh",
-          "description": "MQTT over mesh WiFi integrated library for ESP8266.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-02-22T10:15:07Z",
-            "owner": "PhracturedBlue",
-            "repo": "ESP8266MQTTMesh",
-            "stars": 265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-ir-transceiver",
-          "description": "ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-11-17T18:02:31Z",
-            "owner": "piotrC4",
-            "repo": "mqtt-ir-transceiver",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodemcu-gpiomqtt",
-          "description": "Lua script to connect ESP8266 GPIOs to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2018-04-17T18:17:16Z",
-            "owner": "hobbyquaker",
-            "repo": "nodemcu-gpiomqtt",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "ESP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CODESYS-MQTT",
-          "description": "A MQTT client for CODESYS PLC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-11-29T06:59:24Z",
-            "owner": "stefandreyer",
-            "repo": "CODESYS-MQTT",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt2opcua",
-          "description": "Bi Directional MQTT to OPCUA Bridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-01-14T02:19:43Z",
-            "owner": "nzfarmer1",
-            "repo": "mqtt2opcua",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spicierModbus2mqtt",
-          "description": "Modbus master which publishes register values via MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-24T18:09:09Z",
-            "owner": "mbs38",
-            "repo": "spicierModbus2mqtt",
-            "stars": 68
-          }
-        }
-      ],
-      "title": "Industry"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sms2mqtt",
-          "description": "Docker Gateway to send/receive SMS through MQTT using an USB GSM dongle (gammu).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-24T15:30:26Z",
-            "owner": "Domochip",
-            "repo": "sms2mqtt",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sip2mqtt",
-          "description": "A SIP monitoring script that publishes incoming calls with CallerID to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-26T15:34:04Z",
-            "owner": "MartyTremblay",
-            "repo": "sip2mqtt",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agi-mqtt",
-          "description": "Interface between Asterisk and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2014-04-28T00:49:10Z",
-            "owner": "zeha",
-            "repo": "agi-mqtt",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fritz2mqtt",
-          "description": "Connect FRITZ!Box to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-01T15:10:35Z",
-            "owner": "akentner",
-            "repo": "fritz2mqtt",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Telephony, PBX"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mqttlauncher",
-          "description": "Execute shell commands triggered by published MQTT messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-16T22:51:16Z",
-            "owner": "jpmens",
-            "repo": "mqtt-launcher",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "psmqtt",
-          "description": "Utility reporting system health and status via MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-25T09:46:45Z",
-            "owner": "eschava",
-            "repo": "psmqtt",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WinThing",
-          "description": "Remotely control Windows through MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-04-13T17:47:14Z",
-            "owner": "msiedlarek",
-            "repo": "winthing",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqttwatchdir",
-          "description": "Recursively watch a directory for modifications and publish file content to an MQTT broker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-12-06T13:59:48Z",
-            "owner": "jpmens",
-            "repo": "mqtt-watchdir",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-os-status",
-          "description": "Operating-system related data, published to an MQTT broker at fixed intervals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2014-04-07T22:09:58Z",
-            "owner": "oskarhagberg",
-            "repo": "mqtt-os-status",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqttpc",
-          "description": "Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-05T11:46:50Z",
-            "owner": "hobbyquaker",
-            "repo": "mqttpc",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Operating System"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check-mqtt",
-          "description": "A Nagios/Icinga plugin for checking connectivity to an MQTT broker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-11T10:11:11Z",
-            "owner": "jpmens",
-            "repo": "check-mqtt",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "notify-by-mqtt",
-          "description": "A Nagios/Icinga notification module which wraps data into JSON and fires it off to an MQTT broker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-13T16:36:30Z",
-            "owner": "jpmens",
-            "repo": "notify-by-mqtt",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt2notifysend",
-          "description": "Subscribe to a topic and show notifications from MQTT messages on Ubuntu & other notify-send compatible Linux distros.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-11-20T14:58:45Z",
-            "owner": "David-Lor",
-            "repo": "MQTT2NotifySend",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nag2mqtt",
-          "description": "Nagios event broker to MQTT gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2017-10-01T16:42:43Z",
-            "owner": "DE-IBH",
-            "repo": "nag2mqtt",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ccusage-mqtt",
-          "description": "Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-13T23:36:17Z",
-            "owner": "george-vice",
-            "repo": "ccusage-mqtt",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Monitoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "influx4mqtt",
-          "description": "Subscribe to MQTT topics and insert into InfluxDB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-05-02T17:08:39Z",
-            "owner": "hobbyquaker",
-            "repo": "influx4mqtt",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "graylog-plugin-mqtt",
-          "description": "MQTT Input Plugin for Graylog.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-05-06T09:14:49Z",
-            "owner": "graylog-labs",
-            "repo": "graylog-plugin-mqtt",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt2elasticsearch",
-          "description": "Send MQTT messages to Elasticsearch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-24T10:31:25Z",
-            "owner": "hobbyquaker",
-            "repo": "mqtt2elasticsearch",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Logging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bambuddy",
-          "description": "Self-hosted management tool for Bambu Lab 3D printers using MQTT, with real-time monitoring, scheduling, and Home Assistant integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:44:07Z",
-            "owner": "maziggy",
-            "repo": "bambuddy",
-            "stars": 2813
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "amcrest2mqtt",
-          "description": "Amcrest doorbell to MQTT bridge. Uses Home Assistant's MQTT discovery protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-22T17:25:25Z",
-            "owner": "dchesterton",
-            "repo": "amcrest2mqtt",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ble-scale-sync",
-          "description": "BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. Website.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-02T20:40:46Z",
-            "owner": "KristianP26",
-            "repo": "ble-scale-sync",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "can2mqtt",
-          "description": "CAN-Bus - MQTT Bridge (also works vice versa).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-05-03T18:43:12Z",
-            "owner": "c3re",
-            "repo": "can2mqtt",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aqara-mqtt",
-          "description": "Aqara (Xiaomi) Gateway to MQTT bridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-13T23:16:48Z",
-            "owner": "monster1025",
-            "repo": "aqara-mqtt",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "knx2mqtt",
-          "description": "Interface between the KNX home automation standard and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2015-09-16T21:51:05Z",
-            "owner": "owagner",
-            "repo": "knx2mqtt",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "knx-mqtt-bridge",
-          "description": "Bridges KNX and MQTT using the knx.js library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T15:53:09Z",
-            "owner": "pakerfeldt",
-            "repo": "knx-mqtt-bridge",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ipcam2mqtt",
-          "description": "A small FTP server to receive movement images from ipcameras and turn them into MQTT alerts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-04-08T22:14:53Z",
-            "owner": "svrooij",
-            "repo": "ipcam2mqtt",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-unifi-protect-bridge",
-          "description": "Adding motion-status from UniFi Protect Cameras to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-10-18T15:08:22Z",
-            "owner": "terafin",
-            "repo": "mqtt-unifi-protect-bridge",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hm2mqtt.js",
-          "description": "Interface between EQ-3's Homematic line of smarthome devices and MQTT. Supports Homematic IP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-06T13:26:33Z",
-            "owner": "hobbyquaker",
-            "repo": "hm2mqtt.js",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HS100toMQTT",
-          "description": "Gateway between TPLink HS100/HS110 and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-25T04:18:22Z",
-            "owner": "dersimn",
-            "repo": "HS100toMQTT",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "homeeToMqtt",
-          "description": "Bidirectional Interface between homee and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-20T06:45:21Z",
-            "owner": "odig",
-            "repo": "homeeToMqtt",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gardena2mqtt",
-          "description": "Docker Gateway to control GARDENA Smart system devices (Sileno mower, Irrigation Control, etc.) through MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-24T11:55:30Z",
-            "owner": "Domochip",
-            "repo": "gardena2mqtt",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eno2mqtt",
-          "description": "Interface between an Enocean USB300 (TCM310) adapter and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2016-05-20T17:45:12Z",
-            "owner": "owagner",
-            "repo": "eno2mqtt",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cul2mqtt",
-          "description": "Interface between Busware CUL (868MHz RF-Devices like ELV FS20, HMS, EM, etc.) and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-02-05T20:20:17Z",
-            "owner": "hobbyquaker",
-            "repo": "cul2mqtt",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evohome2mqtt",
-          "description": "MQTT Interface for the Honeywell Evohome system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-03-17T15:18:52Z",
-            "owner": "svrooij",
-            "repo": "evohome2mqtt",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "helios2mqtt",
-          "description": "A daemon for syncing a helios easy controls system like my KWL EC 220D to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-28T04:34:18Z",
-            "owner": "mreschka",
-            "repo": "helios2mqtt",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aqara2mqtt",
-          "description": "Attach Aqara Smart Hubs to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-09-28T17:43:44Z",
-            "owner": "hobbyquaker",
-            "repo": "aqara2mqtt",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "huABus",
-          "description": "Home Assistant application (Add-on) and MQTT bridge for Huawei solar inverters (SUN2000/3000/5000).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T06:57:05Z",
-            "owner": "arboeh",
-            "repo": "huABus",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-dss-bridge",
-          "description": "MQTT digitalSTROM-Server Bridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-09-24T13:26:29Z",
-            "owner": "cgHome",
-            "repo": "mqtt-dss-bridge",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "domiqtt",
-          "description": "Connects to a Domiq Base (LCN) and translate from and to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-28T23:50:37Z",
-            "owner": "etobi",
-            "repo": "domiqtt",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Smart Home Hardware Interfaces"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Arilux_AL-LC0X",
-          "description": "This is an alternative firmware for Arilux LED controllers which uses MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2019-08-09T12:38:52Z",
-            "owner": "SamZorSec",
-            "repo": "Arilux_AL-LC0X",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TRADFRI2MQTT",
-          "description": "MQTT Bridge for IKEA TRÅDFRI Light Gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-10-12T22:00:53Z",
-            "owner": "hardillb",
-            "repo": "TRADFRI2MQTT",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQTT DMX Controller",
-          "description": "DMX Controller with MQTT support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-13T20:27:07Z",
-            "owner": "hobbyquaker",
-            "repo": "mqtt-dmx-controller",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hue2mqtt.js",
-          "description": "Interface between the Philips Hue bridge and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-01-01T17:16:56Z",
-            "owner": "hobbyquaker",
-            "repo": "hue2mqtt.js",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-dmx-sequencer",
-          "description": "Headless counterpart to MQTT DMX Controller - use scenes and sequences exported from the MQTT DMX Controller and control them via MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-05T09:58:41Z",
-            "owner": "hobbyquaker",
-            "repo": "mqtt-dmx-sequencer",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sunricher-wifi-mqtt",
-          "description": "Control Sunricher LED devices using MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-01-04T16:30:52Z",
-            "owner": "magcode",
-            "repo": "sunricher-wifi-mqtt",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chromoflex2mqtt",
-          "description": "Control Chromoflex USP3 RGB LED modules via MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-12-05T16:46:27Z",
-            "owner": "owagner",
-            "repo": "chromoflex2mqtt",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Lighting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "harmony-api",
-          "description": "A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-04-14T14:52:16Z",
-            "owner": "maddox",
-            "repo": "harmony-api",
-            "stars": 401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "broadlink-mqtt",
-          "description": "MQTT client to control BroadLink RM devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-27T15:22:38Z",
-            "owner": "eschava",
-            "repo": "broadlink-mqtt",
-            "stars": 238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lgtv2mqtt",
-          "description": "Interface between LG WebOS Smart TVs and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-17T17:59:20Z",
-            "owner": "hobbyquaker",
-            "repo": "lgtv2mqtt",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kodi2mqtt",
-          "description": "Interface between a Kodi media center instance and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-07T16:57:18Z",
-            "owner": "owagner",
-            "repo": "kodi2mqtt",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sonos2mqtt",
-          "description": "A bridge between Sonos and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-06T11:28:45Z",
-            "owner": "svrooij",
-            "repo": "sonos2mqtt",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "airtunes2mqtt",
-          "description": "MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-11-26T20:16:49Z",
-            "owner": "hobbyquaker",
-            "repo": "airtunes2mqtt",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chromecast-mqtt-connector",
-          "description": "Control your Google Chromecast devices using MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-15T10:15:47Z",
-            "owner": "nohum",
-            "repo": "chromecast-mqtt-connector",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "onkyo2mqtt",
-          "description": "Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-30T10:20:42Z",
-            "owner": "owagner",
-            "repo": "onkyo2mqtt",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lirc2mqtt",
-          "description": "Send and receive infrared via LIRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-01-07T20:14:29Z",
-            "owner": "hobbyquaker",
-            "repo": "lirc2mqtt",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mopidy-mqtt",
-          "description": "MQTT features for Mopidy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-14T19:48:19Z",
-            "owner": "magcode",
-            "repo": "mopidy-mqtt",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bravia2mqtt",
-          "description": "Control your Sony Bravia TV with MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-12T06:52:45Z",
-            "owner": "forty2",
-            "repo": "bravia2mqtt",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yamaha-avr2mqtt",
-          "description": "A simple adapter for connection Yamaha AVR to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-01T16:25:14Z",
-            "owner": "akentner",
-            "repo": "yamaha-avr2mqtt",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQTT-DashCast-Docker",
-          "description": "MQTT Docker to launch DashCast session on Chromecast.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-03-07T03:31:33Z",
-            "owner": "mukw-labs",
-            "repo": "MQTT-DashCast-Docker",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt2tivoremote",
-          "description": "Make TiVo DVR remote control available through an MQTT smarthome style interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-02T23:54:35Z",
-            "owner": "forty2",
-            "repo": "mqtt2tivoremote",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xbmc2mqtt",
-          "description": "A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-03-17T10:29:45Z",
-            "owner": "gordonjcp",
-            "repo": "xbmc-mqtt",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "htd2mqtt",
-          "description": "Bridge between an HTD Lync audio system and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-10-30T19:53:00Z",
-            "owner": "TheOriginalAndrobot",
-            "repo": "htd2mqtt",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt2atlonamatrix",
-          "description": "Control Atlona HDMI matrix switches with MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-05T10:07:51Z",
-            "owner": "forty2",
-            "repo": "mqtt2atlonamatrix",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Home Entertainment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rpi-mqtt-monitor",
-          "description": "The easiest way to track your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant via MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-26T19:45:37Z",
-            "owner": "hjelev",
-            "repo": "rpi-mqtt-monitor",
-            "stars": 316
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bcontrol2mqtt",
-          "description": "Publish measurements from TQ Energy Manager / Busch-Jäger Energy Monitor to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-02-05T20:35:39Z",
-            "owner": "hobbyquaker",
-            "repo": "bcontrol2mqtt",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Smart Metering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Valetudo",
-          "description": "Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T19:06:31Z",
-            "owner": "Hypfer",
-            "repo": "Valetudo",
-            "stars": 9545
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "miflora-mqtt-daemon",
-          "description": "Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-23T19:51:52Z",
-            "owner": "ThomDietrich",
-            "repo": "miflora-mqtt-daemon",
-            "stars": 623
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bt-mqtt-gateway",
-          "description": "Easily extensible Bluetooth to MQTT gateway, currently supports: EQ3 smart thermostat, Xiaomi Mi Scale, Linak Desk, MySensors and Xiaomi Mi Flora plant sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-10-26T19:06:29Z",
-            "owner": "zewelor",
-            "repo": "bt-mqtt-gateway",
-            "stars": 552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-camera-streamer",
-          "description": "Stream images from a connected camera over MQTT & view using Streamlit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-12T19:17:40Z",
-            "owner": "robmarkcole",
-            "repo": "mqtt-camera-streamer",
-            "stars": 248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gBridge",
-          "description": "Control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2022-10-10T10:57:50Z",
-            "owner": "kservices",
-            "repo": "gBridge",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "serial2mqtt",
-          "description": "A Linux gateway to connect low-cost microcontrollers only with a serial port to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-09-22T15:47:56Z",
-            "owner": "vortex314",
-            "repo": "serial2mqtt",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqttclpro",
-          "description": "MQTT Client with tasker integration Android app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-03-14T20:44:52Z",
-            "owner": "deepessh",
-            "repo": "mqttclpro",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AlexaMqttBridge",
-          "description": "Bridge between Amazon Alexa and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-13T22:47:55Z",
-            "owner": "mhdawson",
-            "repo": "AlexaMqttBridge",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unifi2mqtt",
-          "description": "Publish connected clients from Ubiquiti Unifi to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-08-07T23:16:30Z",
-            "owner": "hobbyquaker",
-            "repo": "unifi2mqtt",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-mqtt-for-anki-overdrive",
-          "description": "Node.js Controller and MQTT API for Anki Overdrive.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-09-10T14:55:24Z",
-            "owner": "IBM-Cloud",
-            "repo": "node-mqtt-for-anki-overdrive",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "leaf-python-mqtt",
-          "description": "Extract data from Nissan Leaf API and post to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-02T02:15:16Z",
-            "owner": "glynhudson",
-            "repo": "leaf-python-mqtt",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt2ble",
-          "description": "A way to bridge MQTT topics to BLE Gatt characteristics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-12-13T13:50:14Z",
-            "owner": "hardillb",
-            "repo": "mqtt2ble",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqttDB",
-          "description": "A JSON store with MQTT interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-05-30T21:31:49Z",
-            "owner": "hobbyquaker",
-            "repo": "mqttDB",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chrome2mqtt",
-          "description": "Python program to enable MQTT control endpoints for chromecasts (both audio and video).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-20T07:37:53Z",
-            "owner": "tbowmo",
-            "repo": "chrome2mqtt",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "buderus2mqtt",
-          "description": "Bridge between Buderus KM200 internet gateway and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T15:15:15Z",
-            "owner": "krambox",
-            "repo": "buderus2mqtt",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parrot-sample",
-          "description": "Sample code which uses MQTT to control a Parrot AR Drone.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2017-09-27T02:09:58Z",
-            "owner": "IBM-Cloud",
-            "repo": "parrot-sample",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "homely",
-          "description": "Collection of Go daemons for connecting Domoticz and other stuff.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-11-11T19:54:05Z",
-            "owner": "baol",
-            "repo": "homely",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dashbutton2mqtt",
-          "description": "Publish Amazon Dash Button presses to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-05T09:54:15Z",
-            "owner": "hobbyquaker",
-            "repo": "dashbutton2mqtt",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-transformer",
-          "description": "A simple service which consumes, transforms and periodically republish json messages on MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-24T10:31:31Z",
-            "owner": "tg44",
-            "repo": "mqtt-transformer",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "speedtest2mqtt",
-          "description": "Run speedtest-cli and publish results via MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-02-09T23:28:07Z",
-            "owner": "hobbyquaker",
-            "repo": "speedtest2mqtt",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "haiku2mqtt",
-          "description": "A bridge between Haiku smart fans and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-05T10:05:55Z",
-            "owner": "forty2",
-            "repo": "haiku2mqtt",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQTT Joystick Controller",
-          "description": "Open Source Android app that lets you control everything with your smartphone. Download it from Google Play.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-04-27T07:55:36Z",
-            "owner": "Vincenzo-Petrolo",
-            "repo": "MQTT-Joystick-Controller",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QuIXI",
-          "description": "Bridge between the Ixian decentralized P2P network and MQTT/REST. Enables encrypted peer-to-peer messaging for IoT devices with post-quantum security (ML-KEM + AES-256 + ChaCha20).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-10T16:55:11Z",
-            "owner": "ixian-platform",
-            "repo": "QuIXI",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flowerpower2mqtt",
-          "description": "Publish measurements from Parrot Flower Power plant sensors to MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-05T10:05:29Z",
-            "owner": "hobbyquaker",
-            "repo": "flowerpower2mqtt",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snowboy2mqtt",
-          "description": "Publish MQTT Messages on Snowboy Hotword Detection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-10-25T16:55:06Z",
-            "owner": "hobbyquaker",
-            "repo": "snowboy2mqtt",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kobold2mqtt",
-          "description": "Bridge between Vorwerk Kobold Vr200 internet gateway and MQTT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-07T17:34:11Z",
-            "owner": "krambox",
-            "repo": "kobold2mqtt",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-tasker",
-          "description": "Android Tasker mqtt plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2016-12-29T16:41:28Z",
-            "owner": "stesie",
-            "repo": "TaskerMqtt",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQTT2ETCD",
-          "description": "MQTT-ETCD gateway: PUT keys on ETCD through MQTT, and watch ETCD key changes on MQTT topics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-08T20:08:52Z",
-            "owner": "David-Lor",
-            "repo": "MQTT2ETCD",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
+      "description": "Other tools that can be used to create Visualization/Dashboards can be found under Platforms and Smart Home Integration Software.",
       "items": [
         {
           "node_type": "item",
@@ -2597,6 +3132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52909975,
             "language": "C++",
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
@@ -2611,6 +3147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58145930,
             "language": "HTML",
             "last_commit": "2025-08-07T18:03:52Z",
             "owner": "node-red",
@@ -2625,6 +3162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12266054,
             "language": "JavaScript",
             "last_commit": "2026-04-11T20:14:28Z",
             "owner": "fabaff",
@@ -2639,6 +3177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48307720,
             "language": "Python",
             "last_commit": "2021-06-07T02:49:54Z",
             "owner": "edfungus",
@@ -2653,6 +3192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198625057,
             "language": "Vue",
             "last_commit": "2026-06-23T08:00:12Z",
             "owner": "flespi-software",
@@ -2667,6 +3207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56806283,
             "language": "Java",
             "last_commit": "2021-06-17T22:26:16Z",
             "owner": "adrianromero",
@@ -2681,6 +3222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9040361,
             "language": "JavaScript",
             "last_commit": "2020-10-20T20:19:37Z",
             "owner": "hardillb",
@@ -2695,6 +3237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9593718,
             "language": "JavaScript",
             "last_commit": "2013-04-22T09:02:32Z",
             "owner": "jpmens",
@@ -2709,6 +3252,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16912005,
             "language": null,
             "last_commit": "2016-09-17T08:59:43Z",
             "owner": "matbor",
@@ -2723,6 +3267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69894632,
             "language": "Java",
             "last_commit": "2020-08-31T14:45:13Z",
             "owner": "ravendmaster",
@@ -2737,6 +3282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231418598,
             "language": "Scala",
             "last_commit": "2021-12-28T23:55:12Z",
             "owner": "tg44",
@@ -2751,6 +3297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74447866,
             "language": "JavaScript",
             "last_commit": "2017-04-18T17:47:52Z",
             "owner": "klauserber",
@@ -2765,6 +3312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58953398,
             "language": "JavaScript",
             "last_commit": "2021-02-10T16:17:23Z",
             "owner": "javiergayala",
@@ -2779,8 +3327,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:09:49Z",
+            "id": 1240834448,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:41:14Z",
             "owner": "jmischler72",
             "repo": "mqtt-dashboard",
             "stars": 16
@@ -2793,6 +3342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248988546,
             "language": "JavaScript",
             "last_commit": "2026-08-09T20:44:28Z",
             "owner": "feezal",
@@ -2807,6 +3357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229084017,
             "language": "C",
             "last_commit": "2022-02-09T07:14:55Z",
             "owner": "kollokollo",
@@ -2821,6 +3372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1239179011,
             "language": "HTML",
             "last_commit": "2026-06-08T23:05:34Z",
             "owner": "larionovavi-stack",
@@ -2832,7 +3384,7 @@
       "title": "Visualization, Dashboards"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2841,6 +3393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45796054,
             "language": null,
             "last_commit": "2026-02-12T10:04:34Z",
             "owner": "homieiot",
@@ -2855,6 +3408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28449030,
             "language": null,
             "last_commit": "2022-02-04T13:33:27Z",
             "owner": "mqtt-smarthome",
@@ -2866,7 +3420,7 @@
       "title": "Architecture, Convention"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2875,6 +3429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143266426,
             "language": "Python",
             "last_commit": "2024-08-09T09:29:44Z",
             "owner": "akamai-threat-research",
@@ -2889,6 +3444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191325692,
             "language": "Python",
             "last_commit": "2024-03-26T09:32:28Z",
             "owner": "stfbk",
@@ -2901,8 +3457,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:02:12.634Z",
+    "last_updated": "2026-08-19T12:01:31.189Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
+    "original_repository_id": 44929620,
     "original_repository_sha": "dd649af22341b621e6291f013d7d619fbf496fd2",
     "enhanced_repository": "enhansome/enhansome-mqtt",
     "enhanced_repository_description": null,
