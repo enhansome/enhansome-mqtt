@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-19T08:57:26Z",
+            "last_commit": "2026-08-20T10:58:50Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16639
+            "stars": 16645
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T10:33:14Z",
             "owner": "moscajs",
             "repo": "aedes",
-            "stars": 1967
+            "stars": 1968
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-18T10:53:39Z",
             "owner": "moquette-io",
             "repo": "moquette",
-            "stars": 2451
+            "stars": 2452
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 315620558,
             "language": "Java",
-            "last_commit": "2026-08-19T12:13:43Z",
+            "last_commit": "2026-08-20T11:45:24Z",
             "owner": "thingsboard",
             "repo": "tbmq",
-            "stars": 751
+            "stars": 752
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 146448285,
             "language": "Java",
-            "last_commit": "2026-08-19T10:39:06Z",
+            "last_commit": "2026-08-20T03:04:38Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 875
+            "stars": 895
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-09T17:40:11Z",
             "owner": "EdJoPaTo",
             "repo": "mqttui",
-            "stars": 714
+            "stars": 715
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 179662841,
             "language": "Java",
-            "last_commit": "2026-08-18T23:36:41Z",
+            "last_commit": "2026-08-19T18:45:57Z",
             "owner": "hivemq",
             "repo": "mqtt-cli",
             "stars": 362
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 1312436637,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:14:18Z",
+            "last_commit": "2026-08-19T22:02:29Z",
             "owner": "ibrahimilkhan",
             "repo": "mqtt-forge",
             "stars": 0
@@ -800,7 +800,7 @@
                 "last_commit": "2026-04-23T22:27:15Z",
                 "owner": "empicano",
                 "repo": "aiomqtt",
-                "stars": 570
+                "stars": 571
               }
             },
             {
@@ -837,7 +837,7 @@
                 "last_commit": "2026-07-29T19:26:10Z",
                 "owner": "emqx",
                 "repo": "emqtt",
-                "stars": 438
+                "stars": 439
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2024-05-12T05:19:51Z",
                 "owner": "LiamBindle",
                 "repo": "MQTT-C",
-                "stars": 895
+                "stars": 896
               }
             },
             {
@@ -911,7 +911,7 @@
                 "last_commit": "2026-08-09T13:20:52Z",
                 "owner": "dotnet",
                 "repo": "MQTTnet",
-                "stars": 5057
+                "stars": 5058
               }
             },
             {
@@ -1376,10 +1376,10 @@
                     "archived": false,
                     "id": 80286288,
                     "language": "C",
-                    "last_commit": "2026-08-19T08:50:21Z",
+                    "last_commit": "2026-08-20T11:59:47Z",
                     "owner": "arendst",
                     "repo": "Tasmota",
-                    "stars": 24713
+                    "stars": 24717
                   }
                 },
                 {
@@ -1391,10 +1391,10 @@
                     "archived": false,
                     "id": 68460326,
                     "language": "C++",
-                    "last_commit": "2026-08-17T09:47:46Z",
+                    "last_commit": "2026-08-19T13:58:21Z",
                     "owner": "1technophile",
                     "repo": "OpenMQTTGateway",
-                    "stars": 4078
+                    "stars": 4080
                   }
                 }
               ],
@@ -1813,10 +1813,10 @@
                 "archived": false,
                 "id": 1105867170,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:39:41Z",
+                "last_commit": "2026-08-20T11:00:25Z",
                 "owner": "maziggy",
                 "repo": "bambuddy",
-                "stars": 2818
+                "stars": 2821
               }
             },
             {
@@ -1843,10 +1843,10 @@
                 "archived": false,
                 "id": 1133724679,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T13:27:03Z",
+                "last_commit": "2026-08-19T18:05:41Z",
                 "owner": "KristianP26",
                 "repo": "ble-scale-sync",
-                "stars": 152
+                "stars": 153
               }
             },
             {
@@ -2061,6 +2061,21 @@
             },
             {
               "node_type": "item",
+              "title": "huABus",
+              "description": "Home Assistant application (Add-on) and MQTT bridge for Huawei solar inverters (SUN2000/3000/5000).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1109110844,
+                "language": "Python",
+                "last_commit": "2026-08-19T17:25:19Z",
+                "owner": "arboeh",
+                "repo": "huABus",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
               "title": "aqara2mqtt",
               "description": "Attach Aqara Smart Hubs to MQTT.",
               "children": [],
@@ -2071,21 +2086,6 @@
                 "last_commit": "2018-09-28T17:43:44Z",
                 "owner": "hobbyquaker",
                 "repo": "aqara2mqtt",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "huABus",
-              "description": "Home Assistant application (Add-on) and MQTT bridge for Huawei solar inverters (SUN2000/3000/5000).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1109110844,
-                "language": "Python",
-                "last_commit": "2026-08-18T06:57:05Z",
-                "owner": "arboeh",
-                "repo": "huABus",
                 "stars": 7
               }
             },
@@ -2131,7 +2131,7 @@
                 "last_commit": "2026-08-18T20:09:27Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15511
+                "stars": 15513
               }
             },
             {
@@ -2146,7 +2146,7 @@
                 "last_commit": "2026-08-14T09:02:06Z",
                 "owner": "zwave-js",
                 "repo": "zwave-js-ui",
-                "stars": 1236
+                "stars": 1235
               }
             },
             {
@@ -2213,7 +2213,7 @@
                 "last_commit": "2021-01-18T20:08:08Z",
                 "owner": "openhab",
                 "repo": "openhab1-addons",
-                "stars": 3397
+                "stars": 3396
               }
             },
             {
@@ -2669,7 +2669,7 @@
                 "last_commit": "2026-06-26T19:45:37Z",
                 "owner": "hjelev",
                 "repo": "rpi-mqtt-monitor",
-                "stars": 316
+                "stars": 317
               }
             },
             {
@@ -2703,10 +2703,10 @@
                 "archived": false,
                 "id": 140675080,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T19:06:31Z",
+                "last_commit": "2026-08-19T15:54:37Z",
                 "owner": "Hypfer",
                 "repo": "Valetudo",
-                "stars": 9547
+                "stars": 9550
               }
             },
             {
@@ -3137,7 +3137,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6120
+            "stars": 6122
           }
         },
         {
@@ -3197,7 +3197,7 @@
             "last_commit": "2026-06-23T08:00:12Z",
             "owner": "flespi-software",
             "repo": "MQTT-Tiles",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -3329,7 +3329,7 @@
             "archived": false,
             "id": 1240834448,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:41:14Z",
+            "last_commit": "2026-08-20T11:49:42Z",
             "owner": "jmischler72",
             "repo": "mqtt-dashboard",
             "stars": 16
@@ -3457,7 +3457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:18.864Z",
+    "last_updated": "2026-08-20T12:03:06.439Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_id": 44929620,
     "original_repository_sha": "dd649af22341b621e6291f013d7d619fbf496fd2",
