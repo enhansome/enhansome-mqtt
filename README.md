@@ -64,9 +64,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Brokers
 
-* [EMQ X](https://github.com/emqx/emqx) ⭐ 16,645 | 🐛 250 | 🌐 Erlang | 📅 2026-08-20 - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
+* [EMQ X](https://github.com/emqx/emqx) ⭐ 16,647 | 🐛 258 | 🌐 Erlang | 📅 2026-08-21 - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 * [Emitter](https://github.com/emitter-io/emitter) ⭐ 4,004 | 🐛 16 | 🌐 Go | 📅 2026-04-29 - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
-* [Aedes](https://github.com/moscajs/aedes) ⭐ 1,968 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-12 - Barebone MQTT broker that can run on any stream server, the node way.
+* [Aedes](https://github.com/moscajs/aedes) ⭐ 1,967 | 🐛 102 | 🌐 JavaScript | 📅 2026-08-12 - Barebone MQTT broker that can run on any stream server, the node way.
 * [comqtt](https://github.com/wind-c/comqtt) ⭐ 1,172 | 🐛 8 | 🌐 Go | 📅 2026-07-21 - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster.
 * [esp\_uMQTT\_broker](https://github.com/martin-ger/esp_mqtt) ⭐ 309 | 🐛 27 | 🌐 C | 📅 2023-04-15 - A basic MQTT Broker on the ESP8266.
 * [Eclipse Amlen](https://github.com/eclipse/amlen) ⭐ 53 | 🐛 18 | 🌐 C | 📅 2026-07-26 - A scalable, secure, easy to use message broker that can be used for IoT, web and mobile use-cases. Open-sourced from IBM MessageSight.
@@ -77,7 +77,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 <!--lint disable double-link-->
 
-* [hbmqtt Broker](https://github.com/beerfactory/hbmqtt) ⭐ 819 | 🐛 103 | 🌐 Python | 📅 2022-07-24 - Python MQTT broker using asyncio.
+* [hbmqtt Broker](https://github.com/beerfactory/hbmqtt) ⭐ 818 | 🐛 103 | 🌐 Python | 📅 2022-07-24 - Python MQTT broker using asyncio.
 
 <!--lint enable double-link-->
 
@@ -95,7 +95,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 <!--lint enable double-link-->
 
-* [tbmq](https://github.com/thingsboard/tbmq) ⭐ 752 | 🐛 11 | 🌐 Java | 📅 2026-08-20 - Open-source, scalable, fault-tolerant and durable messaging broker for millions of IoT devices.
+* [tbmq](https://github.com/thingsboard/tbmq) ⭐ 752 | 🐛 10 | 🌐 Java | 📅 2026-08-20 - Open-source, scalable, fault-tolerant and durable messaging broker for millions of IoT devices.
 * [Mystique](https://github.com/TheThingsIndustries/mystique) ⭐ 23 | 🐛 9 | 🌐 Go | 📅 2023-03-07 - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 * [TrailMQ](https://github.com/RainerGewalt/TrailMQ) ⭐ 4 | 🐛 11 | 🌐 Shell | 📅 2026-08-15 - Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.
 * [MyQttHub](https://myqtthub.com) - Cloud MQTT broker.
@@ -111,7 +111,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 <!--lint enable double-link-->
 
 * [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
-* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,591 | 🐛 63 | 🌐 C | 📅 2026-08-20 - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,591 | 🐛 64 | 🌐 C | 📅 2026-08-21 - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
 
 ## Cloud
 
@@ -128,20 +128,20 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Platforms
 
-* [IoT DC3](https://github.com/pnoker/iot-dc3) ⭐ 895 | 🐛 32 | 🌐 Java | 📅 2026-08-20 - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (including MQTT), AI-powered operations via Spring AI, and microservice architecture. ([Docs](https://docs.dc3.site))
-* [ForestHub](https://foresthub.ai) - Edge AI agent platform; its open-source runtime [edge-agents](https://github.com/ForestHubAI/edge-agents) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 orchestrates AI agents on Linux edge gateways with MQTT as a first-class workflow transport, running offline with local SLMs alongside cloud LLMs.
+* [IoT DC3](https://github.com/pnoker/iot-dc3) ⭐ 931 | 🐛 32 | 🌐 Java | 📅 2026-08-20 - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (including MQTT), AI-powered operations via Spring AI, and microservice architecture. ([Docs](https://docs.dc3.site))
+* [ForestHub](https://foresthub.ai) - Edge AI agent platform; its open-source runtime [edge-agents](https://github.com/ForestHubAI/edge-agents) ⭐ 97 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 orchestrates AI agents on Linux edge gateways with MQTT as a first-class workflow transport, running offline with local SLMs alongside cloud LLMs.
 * [Iotellect](https://iotellect.com/) - Low-code IoT/IIoT platform for industrial automation, SCADA, BMS and remote monitoring. Supports MQTT, OPC-UA, Modbus and 100+ protocols with visual development tools and edge-cloud integration.
 * [mainflux](https://www.mainflux.com/) - Device management, data aggregation, data management, data analytics,connectivity and message routing and event management. Supported by Linux Software Foundation.
 * [thingsboard](https://thingsboard.io/) - Device management, data collection, processing, event management, and visualization for your IoT projects.
 
 ## Tools
 
-* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,026 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-17 - Cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
-* [MQTT TUI](https://github.com/EdJoPaTo/mqttui) ⭐ 715 | 🐛 10 | 🌐 Rust | 📅 2026-08-09 - Simple lightweight terminal based MQTT monitor and publisher.
+* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,029 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-17 - Cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
+* [MQTT TUI](https://github.com/EdJoPaTo/mqttui) ⭐ 716 | 🐛 10 | 🌐 Rust | 📅 2026-08-09 - Simple lightweight terminal based MQTT monitor and publisher.
 * [hivemq-mqtt-web-client](https://github.com/hivemq/hivemq-mqtt-web-client) ⭐ 363 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-27 - Browser-based MQTT client that utilizes MQTT over websockets. [Direct Link](https://www.hivemq.com/demos/websocket-client/)
-* [MQTT CLI](https://github.com/hivemq/mqtt-cli) ⭐ 362 | 🐛 13 | 🌐 Java | 📅 2026-08-19 - A command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1.
+* [MQTT CLI](https://github.com/hivemq/mqtt-cli) ⭐ 362 | 🐛 14 | 🌐 Java | 📅 2026-08-21 - A command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1.
 * [mqtt-malaria](https://github.com/etactica/mqtt-malaria) ⭐ 265 | 🐛 12 | 🌐 Python | 📅 2021-08-18 - Scalability and load testing utilities for MQTT environments.
-* [mockd](https://github.com/getmockd/mockd) ⭐ 142 | 🐛 10 | 🌐 Go | 📅 2026-08-18 - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
+* [mockd](https://github.com/getmockd/mockd) ⭐ 143 | 🐛 10 | 🌐 Go | 📅 2026-08-18 - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin/) ⭐ 129 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
 * [mqttcli](https://github.com/shirou/mqttcli) ⭐ 123 | 🐛 3 | 🌐 Go | 📅 2026-04-13 - MQTT Client for shell scripting.
 * [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) ⭐ 121 | 🐛 2 | 🌐 JavaScript | 📅 2012-03-16 - A benchmarking tool for MQTT Servers.
@@ -150,9 +150,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2022-03-21 - A simple fuzzer for the MQTT protocol.
 * [MQTTInspector](https://github.com/ckrey/MQTTInspector) ⚠️ Archived - A general MQTT testing app for iOS (iPhone and iPad).
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2019-08-23 - Text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
+* [LazyMQTT](https://github.com/ScottFelder/lazymqtt) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2026-08-12 - A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.
 * [mqtt-wall](https://github.com/bastlirna/mqtt-wall) ⭐ 43 | 🐛 9 | 🌐 JavaScript | 📅 2020-12-08 - Subscription only web-based client – like Twitter wall for MQTT.
 * [mqtt-mirror](https://github.com/4nte/mqtt-mirror) ⭐ 42 | 🐛 5 | 🌐 Go | 📅 2026-06-19 - Mirror MQTT traffic from one broker to another. Available as a CLI tool, Helm chart or Docker image.
-* [LazyMQTT](https://github.com/ScottFelder/lazymqtt) ⭐ 41 | 🐛 0 | 🌐 Rust | 📅 2026-08-12 - A fast, terminal-UI MQTT client written in Rust — inspired by MQTT Explorer, but keyboard-driven and living in your terminal.
 * [mqtt\_recorder](https://github.com/rpdswtk/mqtt_recorder) ⭐ 41 | 🐛 5 | 🌐 Python | 📅 2025-06-29 - Simple cli tool for recording and replaying MQTT messages.
 * [moxy](https://github.com/jvermillard/moxy) ⚠️ Archived - A Golang MQTT proxy providing useful output traces to monitor and troubleshoot your MQTT communications.
 * [imqtt](https://github.com/shafreeck/imqtt) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2016-08-05 - Interactive MQTT packet manipulation shell based on IPython.
@@ -167,10 +167,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 * [mqtt-forget](https://github.com/hobbyquaker/mqtt-forget) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-25 - Command line tool to remove retained MQTT topics by wildcard.
 * [mqtt\_tree](https://github.com/poggenpower/mqtt_tree) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-11-10 - Displays all Topics in an expandable tree, helps to get an overview if you have a lot of clients publishing. (python, tkinter)
 * [mqttkit](https://github.com/keyp-dev/mqttkit) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-27 - Elysia-style application framework for MQTT on Bun and TypeScript. Compose broker adapters, ordered middleware, typed topic routes, MQTT 5 RPC, and AsyncAPI 3.0 docs with `new MqttApp().use(...)`.
-* [dsh-mqtt](https://github.com/UllrAI/dsh-mqtt) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
+* [dsh-mqtt](https://github.com/UllrAI/dsh-mqtt) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
 * [mqttcommander](https://github.com/vroomfondel/mqttcommander) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-26 - A console-based MQTT client and commander, especially useful for IoT, Tasmota, and Node-RED setups.
-* [homie-home-assistant-discovery](https://github.com/labodj/homie-home-assistant-discovery) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-16 - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.
-* [MQTTForge](https://github.com/ibrahimilkhan/mqtt-forge) ⭐ 0 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-19 - Test console that builds a broker's topics into a live tree, shows every frame on the wire, and publishes by hand. Desktop app for macOS, Windows and Linux, or a single Docker image.
+* [homie-home-assistant-discovery](https://github.com/labodj/homie-home-assistant-discovery) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.
+* [MQTTForge](https://github.com/ibrahimilkhan/mqtt-forge) ⭐ 0 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-20 - Test console that builds a broker's topics into a live tree, shows every frame on the wire, and publishes by hand. Desktop app for macOS, Windows and Linux, or a single Docker image.
 * [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method](https://github.com/visoar/mqtt-acl-linter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10.
 * [IoT-Testware](https://projects.eclipse.org/projects/technology.iottestware) - The Eclipse IoT-Testware is a collection of conformance test suites for IoT protocols enriched with additional tools for fuzzing and performance testing.
 * [LabOverWire](https://laboverwire.com/features) - Visual diagram editor for designing MQTT topologies, built with Rust (WebAssembly) and TypeScript. Features live in-browser simulation, code generation, and AsyncAPI export.
@@ -202,7 +202,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 <!--lint disable double-link-->
 
-* [hbmqtt Client](https://github.com/beerfactory/hbmqtt) ⭐ 819 | 🐛 103 | 🌐 Python | 📅 2022-07-24 - Python MQTT client using asyncio.
+* [hbmqtt Client](https://github.com/beerfactory/hbmqtt) ⭐ 818 | 🐛 103 | 🌐 Python | 📅 2022-07-24 - Python MQTT client using asyncio.
 
 <!--lint enable double-link-->
 
@@ -222,11 +222,11 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ### Java
 
-* [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) ⭐ 1,114 | 🐛 80 | 🌐 Java | 📅 2026-08-20 - High-performance Java MQTT client library with different API flavours for MQTT 5.0 and 3.1.1.
+* [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) ⭐ 1,114 | 🐛 76 | 🌐 Java | 📅 2026-08-21 - High-performance Java MQTT client library with different API flavours for MQTT 5.0 and 3.1.1.
 
 ### Erlang or Elixir
 
-* [emqttc](https://github.com/emqx/emqtt) ⭐ 439 | 🐛 39 | 🌐 Erlang | 📅 2026-07-29 - Asynchronous Erlang MQTT Client.
+* [emqttc](https://github.com/emqx/emqtt) ⭐ 439 | 🐛 40 | 🌐 Erlang | 📅 2026-07-29 - Asynchronous Erlang MQTT Client.
 * [mqttex](https://github.com/alfert/mqttex) ⭐ 45 | 🐛 2 | 🌐 Elixir | 📅 2015-05-14 - MQTT implementation in Elixir.
 
 ### Ballerina
@@ -235,7 +235,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ### C or C++
 
-* [MQTT-C](https://github.com/LiamBindle/MQTT-C) ⭐ 896 | 🐛 42 | 🌐 C | 📅 2024-05-12 - A portable MQTT C client for embedded systems and PCs alike.
+* [MQTT-C](https://github.com/LiamBindle/MQTT-C) ⭐ 895 | 🐛 42 | 🌐 C | 📅 2024-05-12 - A portable MQTT C client for embedded systems and PCs alike.
 * [mqtt\_cpp](https://github.com/redboltz/mqtt_cpp) ⭐ 483 | 🐛 51 | 🌐 C++ | 📅 2026-02-12 - MQTT client for C++14 based on Boost.Asio.
 * [wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/) - A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
@@ -249,12 +249,12 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ### C# / .NET
 
-* [MQTTnet](https://github.com/chkr1011/MQTTnet) ⭐ 5,058 | 🐛 190 | 🌐 C# | 📅 2026-08-09 - MQTT client and broker .NET implementations.
+* [MQTTnet](https://github.com/chkr1011/MQTTnet) ⭐ 5,060 | 🐛 190 | 🌐 C# | 📅 2026-08-09 - MQTT client and broker .NET implementations.
 * [HiveMQtt](https://github.com/hivemq/hivemq-mqtt-client-dotnet) ⭐ 97 | 🐛 9 | 🌐 C# | 📅 2026-08-17 - MQTT 5.0 compliant secure client with automatic back pressure management and TCP & WebSocket transport support.
 
 ### Delphi
 
-* [delphi-mqtt](https://github.com/pjde/delphi-mqtt) ⭐ 162 | 🐛 11 | 🌐 Pascal | 📅 2020-03-29 - MQTT server and client components.
+* [delphi-mqtt](https://github.com/pjde/delphi-mqtt) ⭐ 163 | 🐛 11 | 🌐 Pascal | 📅 2020-03-29 - MQTT server and client components.
 * [TMQTTClient](https://github.com/jamiei/Delphi-TMQTT2) ⭐ 26 | 🐛 7 | 🌐 Pascal | 📅 2015-11-11 - MQTT Client Library for Delphi. Alpha and long term unmaintained.
 
 ### GoLang
@@ -284,7 +284,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 * [rumqtt](https://github.com/AtherEnergy/rumqtt) ⚠️ Archived - A fast, lock free pure Rust MQTT client.
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) ⭐ 186 | 🐛 6 | 🌐 Rust | 📅 2024-03-13 - MQTT protocol library for Rust.
-* [mqtt-typed-client](https://github.com/holovskyi/mqtt-typed-client) ⭐ 9 | 🐛 7 | 🌐 Rust | 📅 2026-07-28 - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
+* [mqtt-typed-client](https://github.com/holovskyi/mqtt-typed-client) ⭐ 10 | 🐛 7 | 🌐 Rust | 📅 2026-07-28 - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
 
 <!--lint disable double-link-->
 
@@ -331,12 +331,12 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 #### Firmwares for ESP based Devices
 
-There are many inexpensive smart home Wi-Fi devices based on inexpensive ESP8266 chip *(see: [1](https://templates.blakadder.com/index.html), [2](https://github.com/xoseperez/espurna/wiki/Hardware) ⭐ 3,054 | 🐛 303 | 🌐 C++ | 📅 2026-04-15, [3](https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware))*. Most of them can be reflashed with custom firmware.
+There are many inexpensive smart home Wi-Fi devices based on inexpensive ESP8266 chip *(see: [1](https://templates.blakadder.com/index.html), [2](https://github.com/xoseperez/espurna/wiki/Hardware) ⭐ 3,053 | 🐛 303 | 🌐 C++ | 📅 2026-04-15, [3](https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware))*. Most of them can be reflashed with custom firmware.
 Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php?title=ESPEasy) - Turns ESP into a multifunction sensor device for <abbr title="Home automation">HA</abbr> solutions with web-based configuration.
 * [ESPHome](https://esphome.io/) - Builds ESP8266/ESP32 firmware from concise YAML descriptions, uploads to and manages flashed devices.
-* [Espurna](https://github.com/xoseperez/espurna) ⭐ 3,054 | 🐛 303 | 🌐 C++ | 📅 2026-04-15 - <abbr title="Home automation">HA</abbr> firmware for ESP8266-based devices with rich web UI and ≈120 devices supported out of the box.
+* [Espurna](https://github.com/xoseperez/espurna) ⭐ 3,053 | 🐛 303 | 🌐 C++ | 📅 2026-04-15 - <abbr title="Home automation">HA</abbr> firmware for ESP8266-based devices with rich web UI and ≈120 devices supported out of the box.
 
 <!--lint disable double-link-->
 
@@ -344,8 +344,8 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 <!--lint enable double-link-->
 
-* [Sonoff-Tasmota](https://github.com/arendst/Tasmota) ⭐ 24,717 | 🐛 12 | 🌐 C | 📅 2026-08-20 - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
-* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) ⭐ 4,080 | 🐛 52 | 🌐 C++ | 📅 2026-08-19 - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
+* [Sonoff-Tasmota](https://github.com/arendst/Tasmota) ⭐ 24,720 | 🐛 9 | 🌐 C | 📅 2026-08-21 - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
+* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) ⭐ 4,080 | 🐛 51 | 🌐 C++ | 📅 2026-08-20 - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
 * [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
 ### Industry
@@ -360,7 +360,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [sms2mqtt](https://github.com/Domochip/sms2mqtt) ⭐ 67 | 🐛 5 | 🌐 Python | 📅 2025-11-24 - Docker Gateway to send/receive SMS through MQTT using an USB GSM dongle (gammu).
 * [sip2mqtt](https://github.com/MartyTremblay/sip2mqtt) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2021-01-26 - A SIP monitoring script that publishes incoming calls with CallerID to MQTT.
 * [agi-mqtt](https://github.com/zeha/agi-mqtt) ⭐ 34 | 🐛 1 | 📅 2014-04-28 - Interface between Asterisk and MQTT.
-* [fritz2mqtt](https://github.com/akentner/fritz2mqtt) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-01 - Connect FRITZ!Box to MQTT.
+* [fritz2mqtt](https://github.com/akentner/fritz2mqtt) ⭐ 7 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-20 - Connect FRITZ!Box to MQTT.
 
 ### Operating System
 
@@ -404,9 +404,9 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ### Smart Home Hardware Interfaces
 
-* [Bambuddy](https://github.com/maziggy/bambuddy) ⭐ 2,821 | 🐛 151 | 🌐 Python | 📅 2026-08-20 - Self-hosted management tool for Bambu Lab 3D printers using MQTT, with real-time monitoring, scheduling, and Home Assistant integration.
+* [Bambuddy](https://github.com/maziggy/bambuddy) ⭐ 2,832 | 🐛 162 | 🌐 Python | 📅 2026-08-21 - Self-hosted management tool for Bambu Lab 3D printers using MQTT, with real-time monitoring, scheduling, and Home Assistant integration.
 * [amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) ⭐ 154 | 🐛 16 | 🌐 Python | 📅 2023-04-22 - Amcrest doorbell to MQTT bridge. Uses Home Assistant's MQTT discovery protocol.
-* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 153 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-19 - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 153 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-21 - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
 * [can2mqtt](https://github.com/c3re/can2mqtt) ⚠️ Archived - CAN-Bus - MQTT Bridge (also works vice versa).
 * [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2021-03-13 - Aqara (Xiaomi) Gateway to MQTT bridge.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2015-09-16 - Interface between the KNX home automation standard and MQTT.
@@ -432,11 +432,11 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 <!--lint disable double-link-->
 
-* [mqtt2homekit](https://github.com/forty2/mqtt2homekit) ⭐ 39 | 🐛 4 | 🌐 JavaScript | 📅 2018-01-05 - Roughly the opposite of [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) ⭐ 357 | 🐛 39 | 🌐 JavaScript | 📅 2022-02-04: Control your HomeKit-enabled devices with MQTT and without Siri or iPhone.
+* [mqtt2homekit](https://github.com/forty2/mqtt2homekit) ⭐ 39 | 🐛 4 | 🌐 JavaScript | 📅 2018-01-05 - Roughly the opposite of [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) ⭐ 358 | 🐛 39 | 🌐 JavaScript | 📅 2022-02-04: Control your HomeKit-enabled devices with MQTT and without Siri or iPhone.
 
 <!--lint enable double-link-->
 
-* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) ⭐ 15,513 | 🐛 452 | 🌐 TypeScript | 📅 2026-08-18 - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.
+* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) ⭐ 15,514 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-18 - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.
 * [zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) ⭐ 1,235 | 🐛 124 | 🌐 Vue | 📅 2026-08-14 - Zwave to Mqtt gateway and Control Panel Web UI.
 * [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) ⭐ 379 | 🐛 108 | 🌐 Groovy | 📅 2025-11-16 - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT.
 * [node-lox-mqtt-gateway](https://github.com/alladdin/node-lox-mqtt-gateway) ⭐ 27 | 🐛 4 | 🌐 JavaScript | 📅 2020-02-03 - Gateway for Loxone™ mini server to communicate with MQTT broker.
@@ -453,7 +453,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 <!--lint disable double-link-->
 
 * [HomeGenie](https://homegenie.it/) - Supports remote controlling and monitoring via MQTT with end-to-end encryption.
-* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) ⭐ 357 | 🐛 39 | 🌐 JavaScript | 📅 2022-02-04 - Interface between [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) ⭐ 2,722 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19 and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
+* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) ⭐ 358 | 🐛 39 | 🌐 JavaScript | 📅 2022-02-04 - Interface between [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) ⭐ 2,722 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19 and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 
 <!--lint enable double-link-->
 
@@ -498,7 +498,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ### Smart Metering
 
-* [rpi-mqtt-monitor](https://github.com/hjelev/rpi-mqtt-monitor) ⭐ 317 | 🐛 9 | 🌐 Python | 📅 2026-06-26 - The easiest way to track your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant via MQTT.
+* [rpi-mqtt-monitor](https://github.com/hjelev/rpi-mqtt-monitor) ⭐ 316 | 🐛 9 | 🌐 Python | 📅 2026-06-26 - The easiest way to track your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant via MQTT.
 * [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-05 - Publish measurements from TQ Energy Manager / [Busch-Jäger Energy Monitor](https://www.busch-jaeger.de/files/files_ONLINE/Brosch%c3%bcre_EnergyMonitor_druck.pdf) to MQTT.
 
 ### Messaging
@@ -515,7 +515,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ### Misc
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,550 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 - Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface.
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,551 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 - Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface.
 * [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) ⭐ 623 | 🐛 73 | 🌐 Python | 📅 2024-05-23 - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.
 * [bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) ⚠️ Archived - Easily extensible Bluetooth to MQTT gateway, currently supports: EQ3 smart thermostat, Xiaomi Mi Scale, Linak Desk, MySensors and Xiaomi Mi Flora plant sensor.
 * [mqtt-camera-streamer](https://github.com/robmarkcole/mqtt-camera-streamer) ⭐ 248 | 🐛 17 | 🌐 Python | 📅 2024-08-12 - Stream images from a connected camera over MQTT & view using Streamlit.
@@ -549,7 +549,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ## Visualization, Dashboards
 
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,122 | 🐛 159 | 🌐 C++ | 📅 2026-08-10 - Visualize time series (from sources such as: MQTT, Websockets, ZeroMQ, UDP, etc., supports data formats such as JSON, CBOR, BSON, Message Pack, etc.). It is a fast, powerful and intuitive cross-platform tool.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,123 | 🐛 159 | 🌐 C++ | 📅 2026-08-10 - Visualize time series (from sources such as: MQTT, Websockets, ZeroMQ, UDP, etc., supports data formats such as JSON, CBOR, BSON, Message Pack, etc.). It is a fast, powerful and intuitive cross-platform tool.
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,406 | 🐛 93 | 🌐 HTML | 📅 2025-08-07 - A dashboard UI for Node-RED.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) ⭐ 440 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-11 - A web interface for MQTT.
 * [Crouton](https://github.com/edfungus/Crouton) ⭐ 297 | 🐛 24 | 🌐 Python | 📅 2021-06-07 - A dashboard that taps into your IOT network, using only MQTT and JSON.
@@ -562,7 +562,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [mqtt-prometheus-message-exporter](https://github.com/tg44/mqtt-prometheus-message-exporter) ⭐ 21 | 🐛 0 | 🌐 Scala | 📅 2021-12-28 - A small service which will convert mqtt messages to prometheus metrics.
 * [HOMR-REACT](https://github.com/klauserber/homr-react) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-18 - A configurable MQTT Visualization.
 * [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt) ⭐ 16 | 🐛 8 | 🌐 JavaScript | 📅 2021-02-10 - This is an extension for the MagicMirror². It provides the ability to subscribe to MQTT topics and display them.
-* [mqtt-dashboard](https://github.com/jmischler72/mqtt-dashboard) ⭐ 16 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-20 - Self-hostable MQTT dashboard/explorer with drag-and-drop panels like cron, button, log and topic browser to help interact and monitor MQTT topics.
+* [mqtt-dashboard](https://github.com/jmischler72/mqtt-dashboard) ⭐ 16 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20 - Self-hostable MQTT dashboard/explorer with drag-and-drop panels like cron, button, log and topic browser to help interact and monitor MQTT topics.
 * [Feezal](https://github.com/feezal/feezal) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-09 - Dashboard editor powered by Web Components and MQTT.
 * [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) ⭐ 11 | 🐛 4 | 🌐 C | 📅 2022-02-09 - A universal independent MQTT Dashboard for Linux/Raspberry Pi.
 * [awtSCADA](https://github.com/larionovavi-stack/awtscada) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-06-08 - Industrial SCADA/HMI system with MQTT support (plus IEC 61850, OPC UA, Modbus TCP). Runs from a single HTML file in any browser, zero installation. 53 function blocks, 65 graphic elements, real-time trends.
@@ -591,4 +591,4 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
