@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-22T08:41:10Z",
+            "last_commit": "2026-08-22T21:06:02Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16646
+            "stars": 16648
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-20T03:04:38Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 949
+            "stars": 975
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-07-29T13:12:24Z",
             "owner": "ForestHubAI",
             "repo": "edge-agents",
-            "stars": 97
+            "stars": 98
           }
         }
       ],
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-17T05:45:43Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5029
+            "stars": 5030
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 179662841,
             "language": "Java",
-            "last_commit": "2026-08-21T12:17:28Z",
+            "last_commit": "2026-08-22T13:23:11Z",
             "owner": "hivemq",
             "repo": "mqtt-cli",
             "stars": 362
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 1312436637,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:44:49Z",
+            "last_commit": "2026-08-23T11:58:07Z",
             "owner": "ibrahimilkhan",
             "repo": "mqtt-forge",
             "stars": 0
@@ -1282,7 +1282,7 @@
                     "last_commit": "2026-06-10T11:54:58Z",
                     "owner": "knolleary",
                     "repo": "pubsubclient",
-                    "stars": 4014
+                    "stars": 4015
                   }
                 },
                 {
@@ -1376,10 +1376,10 @@
                     "archived": false,
                     "id": 80286288,
                     "language": "C",
-                    "last_commit": "2026-08-22T10:49:16Z",
+                    "last_commit": "2026-08-23T08:25:27Z",
                     "owner": "arendst",
                     "repo": "Tasmota",
-                    "stars": 24722
+                    "stars": 24723
                   }
                 },
                 {
@@ -1394,7 +1394,7 @@
                     "last_commit": "2026-08-20T13:20:05Z",
                     "owner": "1technophile",
                     "repo": "OpenMQTTGateway",
-                    "stars": 4080
+                    "stars": 4081
                   }
                 }
               ],
@@ -1813,10 +1813,25 @@
                 "archived": false,
                 "id": 1105867170,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:43:53Z",
+                "last_commit": "2026-08-23T11:52:46Z",
                 "owner": "maziggy",
                 "repo": "bambuddy",
-                "stars": 2835
+                "stars": 2840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ble-scale-sync",
+              "description": "BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. Website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1133724679,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T09:58:58Z",
+                "owner": "KristianP26",
+                "repo": "ble-scale-sync",
+                "stars": 155
               }
             },
             {
@@ -1832,21 +1847,6 @@
                 "owner": "dchesterton",
                 "repo": "amcrest2mqtt",
                 "stars": 154
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ble-scale-sync",
-              "description": "BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. Website.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1133724679,
-                "language": "TypeScript",
-                "last_commit": "2026-08-21T09:58:58Z",
-                "owner": "KristianP26",
-                "repo": "ble-scale-sync",
-                "stars": 153
               }
             },
             {
@@ -2023,7 +2023,7 @@
                 "archived": false,
                 "id": 42352763,
                 "language": "JavaScript",
-                "last_commit": "2018-02-05T20:20:17Z",
+                "last_commit": "2026-08-22T21:03:45Z",
                 "owner": "hobbyquaker",
                 "repo": "cul2mqtt",
                 "stars": 9
@@ -2131,7 +2131,7 @@
                 "last_commit": "2026-08-22T03:07:52Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15515
+                "stars": 15516
               }
             },
             {
@@ -2255,7 +2255,7 @@
                 "archived": false,
                 "id": 1253740602,
                 "language": "Svelte",
-                "last_commit": "2026-08-17T18:44:13Z",
+                "last_commit": "2026-08-22T15:37:50Z",
                 "owner": "hobbyquaker",
                 "repo": "she",
                 "stars": 9
@@ -2434,10 +2434,10 @@
                 "archived": false,
                 "id": 47511828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T08:15:17Z",
+                "last_commit": "2026-08-22T13:14:43Z",
                 "owner": "hobbyquaker",
                 "repo": "lgtv2mqtt",
-                "stars": 109
+                "stars": 110
               }
             },
             {
@@ -2703,10 +2703,10 @@
                 "archived": false,
                 "id": 140675080,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T15:54:37Z",
+                "last_commit": "2026-08-23T10:06:13Z",
                 "owner": "Hypfer",
                 "repo": "Valetudo",
-                "stars": 9554
+                "stars": 9570
               }
             },
             {
@@ -3329,7 +3329,7 @@
             "archived": false,
             "id": 1240834448,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T12:28:04Z",
+            "last_commit": "2026-08-22T20:02:54Z",
             "owner": "jmischler72",
             "repo": "mqtt-dashboard",
             "stars": 16
@@ -3344,7 +3344,7 @@
             "archived": false,
             "id": 248988546,
             "language": "JavaScript",
-            "last_commit": "2026-08-09T20:44:28Z",
+            "last_commit": "2026-08-22T20:58:25Z",
             "owner": "feezal",
             "repo": "feezal",
             "stars": 11
@@ -3457,10 +3457,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:58:38.441Z",
+    "last_updated": "2026-08-23T11:58:52.239Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_id": 44929620,
-    "original_repository_sha": "dd649af22341b621e6291f013d7d619fbf496fd2",
+    "original_repository_sha": "8d3dff7947cdbabf32cf11c9bfdf63344db77b21",
     "enhanced_repository": "enhansome/enhansome-mqtt",
     "enhanced_repository_description": null,
     "title": "Awesome MQTT with stars"
