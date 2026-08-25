@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-24T11:33:02Z",
+            "last_commit": "2026-08-25T05:07:40Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16650
+            "stars": 16651
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-24T13:27:24Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 1018
+            "stars": 1032
           }
         },
         {
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 1243243191,
             "language": "TypeScript",
-            "last_commit": "2026-07-29T13:12:24Z",
+            "last_commit": "2026-08-24T14:30:27Z",
             "owner": "ForestHubAI",
             "repo": "edge-agents",
-            "stars": 98
+            "stars": 99
           }
         }
       ],
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-09T17:40:11Z",
             "owner": "EdJoPaTo",
             "repo": "mqttui",
-            "stars": 717
+            "stars": 719
           }
         },
         {
@@ -527,6 +527,21 @@
         },
         {
           "node_type": "item",
+          "title": "mqtt-mirror",
+          "description": "Mirror MQTT traffic from one broker to another. Available as a CLI tool, Helm chart or Docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234756808,
+            "language": "Go",
+            "last_commit": "2026-06-19T09:39:33Z",
+            "owner": "4nte",
+            "repo": "mqtt-mirror",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
           "title": "mqtt-wall",
           "description": "Subscription only web-based client – like Twitter wall for MQTT.",
           "children": [],
@@ -538,21 +553,6 @@
             "owner": "bastlirna",
             "repo": "mqtt-wall",
             "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqtt-mirror",
-          "description": "Mirror MQTT traffic from one broker to another. Available as a CLI tool, Helm chart or Docker image.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 234756808,
-            "language": "Go",
-            "last_commit": "2026-06-19T09:39:33Z",
-            "owner": "4nte",
-            "repo": "mqtt-mirror",
-            "stars": 42
           }
         },
         {
@@ -639,7 +639,7 @@
             "archived": false,
             "id": 330236250,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:32:06Z",
+            "last_commit": "2026-08-24T16:59:07Z",
             "owner": "rpdswtk",
             "repo": "vsmqtt",
             "stars": 17
@@ -657,7 +657,7 @@
             "last_commit": "2026-07-03T15:28:40Z",
             "owner": "iotmertech",
             "repo": "iot-data-generator",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-22T04:44:24Z",
             "owner": "UllrAI",
             "repo": "dsh-mqtt",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -1141,7 +1141,7 @@
                 "last_commit": "2026-08-09T13:20:52Z",
                 "owner": "dotnet",
                 "repo": "MQTTnet",
-                "stars": 5060
+                "stars": 5061
               }
             },
             {
@@ -1645,7 +1645,7 @@
                     "last_commit": "2025-08-16T15:08:25Z",
                     "owner": "shmuelzon",
                     "repo": "esp32-ble2mqtt",
-                    "stars": 775
+                    "stars": 774
                   }
                 },
                 {
@@ -1739,7 +1739,7 @@
                     "archived": false,
                     "id": 68460326,
                     "language": "C++",
-                    "last_commit": "2026-08-24T13:17:18Z",
+                    "last_commit": "2026-08-25T00:31:36Z",
                     "owner": "1technophile",
                     "repo": "OpenMQTTGateway",
                     "stars": 4081
@@ -2176,10 +2176,10 @@
                 "archived": false,
                 "id": 1105867170,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:04:28Z",
+                "last_commit": "2026-08-25T05:55:58Z",
                 "owner": "maziggy",
                 "repo": "bambuddy",
-                "stars": 2844
+                "stars": 2846
               }
             },
             {
@@ -2194,7 +2194,7 @@
                 "last_commit": "2026-08-24T10:49:34Z",
                 "owner": "KristianP26",
                 "repo": "ble-scale-sync",
-                "stars": 155
+                "stars": 156
               }
             },
             {
@@ -2509,7 +2509,7 @@
                 "last_commit": "2026-08-22T03:07:52Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15564
+                "stars": 15566
               }
             },
             {
@@ -2521,7 +2521,7 @@
                 "archived": false,
                 "id": 305933027,
                 "language": "Vue",
-                "last_commit": "2026-08-14T09:02:06Z",
+                "last_commit": "2026-08-24T19:00:33Z",
                 "owner": "zwave-js",
                 "repo": "zwave-js-ui",
                 "stars": 1235
@@ -3597,7 +3597,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6125
+            "stars": 6126
           }
         },
         {
@@ -3917,7 +3917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:01.354Z",
+    "last_updated": "2026-08-25T05:56:22.305Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_id": 44929620,
     "original_repository_sha": "8d3dff7947cdbabf32cf11c9bfdf63344db77b21",
