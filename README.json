@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-25T05:07:40Z",
+            "last_commit": "2026-08-25T11:52:00Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16651
+            "stars": 16653
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 31768514,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T10:33:14Z",
+            "last_commit": "2026-08-25T10:33:10Z",
             "owner": "moscajs",
             "repo": "aedes",
             "stars": 1967
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-24T13:27:24Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 1032
+            "stars": 1048
           }
         },
         {
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 179662841,
             "language": "Java",
-            "last_commit": "2026-08-22T13:23:11Z",
+            "last_commit": "2026-08-25T10:32:16Z",
             "owner": "hivemq",
             "repo": "mqtt-cli",
             "stars": 362
@@ -1141,7 +1141,7 @@
                 "last_commit": "2026-08-09T13:20:52Z",
                 "owner": "dotnet",
                 "repo": "MQTTnet",
-                "stars": 5061
+                "stars": 5062
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "last_commit": "2023-09-12T09:39:40Z",
                 "owner": "novastone-media",
                 "repo": "MQTT-Client-Framework",
-                "stars": 1882
+                "stars": 1881
               }
             },
             {
@@ -1724,10 +1724,10 @@
                     "archived": false,
                     "id": 80286288,
                     "language": "C",
-                    "last_commit": "2026-08-24T09:43:49Z",
+                    "last_commit": "2026-08-25T09:38:11Z",
                     "owner": "arendst",
                     "repo": "Tasmota",
-                    "stars": 24723
+                    "stars": 24725
                   }
                 },
                 {
@@ -2176,10 +2176,10 @@
                 "archived": false,
                 "id": 1105867170,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:55:58Z",
+                "last_commit": "2026-08-25T11:50:42Z",
                 "owner": "maziggy",
                 "repo": "bambuddy",
-                "stars": 2846
+                "stars": 2849
               }
             },
             {
@@ -2191,7 +2191,7 @@
                 "archived": false,
                 "id": 1133724679,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:49:34Z",
+                "last_commit": "2026-08-25T11:51:15Z",
                 "owner": "KristianP26",
                 "repo": "ble-scale-sync",
                 "stars": 156
@@ -2509,7 +2509,7 @@
                 "last_commit": "2026-08-22T03:07:52Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15566
+                "stars": 15567
               }
             },
             {
@@ -2521,7 +2521,7 @@
                 "archived": false,
                 "id": 305933027,
                 "language": "Vue",
-                "last_commit": "2026-08-24T19:00:33Z",
+                "last_commit": "2026-08-25T09:03:47Z",
                 "owner": "zwave-js",
                 "repo": "zwave-js-ui",
                 "stars": 1235
@@ -2845,7 +2845,7 @@
                 "last_commit": "2026-08-22T13:14:43Z",
                 "owner": "hobbyquaker",
                 "repo": "lgtv2mqtt",
-                "stars": 110
+                "stars": 111
               }
             },
             {
@@ -3166,7 +3166,7 @@
                 "last_commit": "2026-08-23T15:33:56Z",
                 "owner": "Hypfer",
                 "repo": "Valetudo",
-                "stars": 9577
+                "stars": 9579
               }
             },
             {
@@ -3917,7 +3917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:22.305Z",
+    "last_updated": "2026-08-25T12:04:21.642Z",
     "original_repository": "awesome-mqtt/awesome-mqtt",
     "original_repository_id": 44929620,
     "original_repository_sha": "8d3dff7947cdbabf32cf11c9bfdf63344db77b21",
