@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-26T10:35:56Z",
+            "last_commit": "2026-08-27T11:24:15Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16656
+            "stars": 16662
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-21T15:38:07Z",
             "owner": "wind-c",
             "repo": "comqtt",
-            "stars": 1173
+            "stars": 1174
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 360278955,
             "language": "C",
-            "last_commit": "2026-07-26T08:11:21Z",
+            "last_commit": "2026-08-27T10:57:42Z",
             "owner": "eclipse-amlen",
             "repo": "amlen",
             "stars": 53
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 315620558,
             "language": "Java",
-            "last_commit": "2026-08-26T11:53:58Z",
+            "last_commit": "2026-08-27T08:25:38Z",
             "owner": "thingsboard",
             "repo": "tbmq",
             "stars": 752
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-24T03:58:54Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2592
+            "stars": 2593
           }
         }
       ],
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 146448285,
             "language": "Java",
-            "last_commit": "2026-08-26T01:44:23Z",
+            "last_commit": "2026-08-27T01:53:41Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 1069
+            "stars": 1088
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-17T05:45:43Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5032
+            "stars": 5034
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-12T23:23:16Z",
             "owner": "ScottFelder",
             "repo": "lazymqtt",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -979,7 +979,7 @@
                 "last_commit": "2026-08-26T00:21:46Z",
                 "owner": "hivemq",
                 "repo": "hivemq-mqtt-client",
-                "stars": 1113
+                "stars": 1115
               }
             }
           ],
@@ -1075,7 +1075,7 @@
                 "last_commit": "2026-02-12T01:00:04Z",
                 "owner": "redboltz",
                 "repo": "mqtt_cpp",
-                "stars": 483
+                "stars": 485
               }
             }
           ],
@@ -1141,7 +1141,7 @@
                 "last_commit": "2026-08-09T13:20:52Z",
                 "owner": "dotnet",
                 "repo": "MQTTnet",
-                "stars": 5062
+                "stars": 5063
               }
             },
             {
@@ -1422,7 +1422,7 @@
                 "last_commit": "2026-07-31T12:13:27Z",
                 "owner": "emqx",
                 "repo": "CocoaMQTT",
-                "stars": 1748
+                "stars": 1749
               }
             },
             {
@@ -1727,7 +1727,7 @@
                     "last_commit": "2026-08-25T13:00:41Z",
                     "owner": "arendst",
                     "repo": "Tasmota",
-                    "stars": 24729
+                    "stars": 24727
                   }
                 },
                 {
@@ -1739,7 +1739,7 @@
                     "archived": false,
                     "id": 68460326,
                     "language": "C++",
-                    "last_commit": "2026-08-25T13:52:49Z",
+                    "last_commit": "2026-08-26T13:13:31Z",
                     "owner": "1technophile",
                     "repo": "OpenMQTTGateway",
                     "stars": 4082
@@ -2112,7 +2112,7 @@
                 "last_commit": "2026-07-22T19:22:35Z",
                 "owner": "mqtt-tools",
                 "repo": "mqttwarn",
-                "stars": 978
+                "stars": 979
               }
             },
             {
@@ -2176,10 +2176,10 @@
                 "archived": false,
                 "id": 1105867170,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:04:55Z",
+                "last_commit": "2026-08-27T11:44:13Z",
                 "owner": "maziggy",
                 "repo": "bambuddy",
-                "stars": 2854
+                "stars": 2864
               }
             },
             {
@@ -2191,10 +2191,10 @@
                 "archived": false,
                 "id": 1133724679,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:02:43Z",
+                "last_commit": "2026-08-26T21:29:44Z",
                 "owner": "KristianP26",
                 "repo": "ble-scale-sync",
-                "stars": 156
+                "stars": 158
               }
             },
             {
@@ -2386,7 +2386,7 @@
                 "archived": false,
                 "id": 42352763,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T14:26:21Z",
+                "last_commit": "2026-08-27T10:06:47Z",
                 "owner": "hobbyquaker",
                 "repo": "cul2mqtt",
                 "stars": 9
@@ -2494,7 +2494,7 @@
                 "last_commit": "2018-01-05T10:08:15Z",
                 "owner": "forty2",
                 "repo": "mqtt2homekit",
-                "stars": 39
+                "stars": 38
               }
             },
             {
@@ -2509,7 +2509,7 @@
                 "last_commit": "2026-08-26T10:17:17Z",
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15572
+                "stars": 15576
               }
             },
             {
@@ -2524,7 +2524,7 @@
                 "last_commit": "2026-08-25T09:03:47Z",
                 "owner": "zwave-js",
                 "repo": "zwave-js-ui",
-                "stars": 1235
+                "stars": 1236
               }
             },
             {
@@ -2663,7 +2663,7 @@
                 "archived": false,
                 "id": 1253740602,
                 "language": "Svelte",
-                "last_commit": "2026-08-22T15:37:50Z",
+                "last_commit": "2026-08-27T10:54:32Z",
                 "owner": "hobbyquaker",
                 "repo": "she",
                 "stars": 9
@@ -2842,10 +2842,10 @@
                 "archived": false,
                 "id": 47511828,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T13:14:43Z",
+                "last_commit": "2026-08-27T10:07:29Z",
                 "owner": "hobbyquaker",
                 "repo": "lgtv2mqtt",
-                "stars": 111
+                "stars": 112
               }
             },
             {
@@ -3129,7 +3129,7 @@
                 "last_commit": "2026-07-22T19:22:35Z",
                 "owner": "mqtt-tools",
                 "repo": "mqttwarn",
-                "stars": 978
+                "stars": 979
               }
             },
             {
@@ -3166,7 +3166,7 @@
                 "last_commit": "2026-08-25T18:25:57Z",
                 "owner": "Hypfer",
                 "repo": "Valetudo",
-                "stars": 9583
+                "stars": 9586
               }
             },
             {
@@ -3283,7 +3283,7 @@
                 "archived": false,
                 "id": 119074391,
                 "language": "JavaScript",
-                "last_commit": "2020-08-07T23:16:30Z",
+                "last_commit": "2026-08-27T10:17:50Z",
                 "owner": "hobbyquaker",
                 "repo": "unifi2mqtt",
                 "stars": 78
@@ -3597,7 +3597,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6127
+            "stars": 6129
           }
         },
         {
@@ -3917,9 +3917,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:04:32.242Z",
-    "original_repository": "awesome-mqtt/awesome-mqtt",
-    "original_repository_id": 44929620,
+    "last_updated": "2026-08-27T11:51:18.674Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 44929620,
+      "language": null,
+      "last_commit": "2026-08-22T20:23:35Z",
+      "owner": "awesome-mqtt",
+      "repo": "awesome-mqtt",
+      "stars": 2388
+    },
     "original_repository_sha": "8d3dff7947cdbabf32cf11c9bfdf63344db77b21",
     "enhanced_repository": "enhansome/enhansome-mqtt",
     "enhanced_repository_description": null,
