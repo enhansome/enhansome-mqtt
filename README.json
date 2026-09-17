@@ -15,11 +15,11 @@
             "id": 7202769,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T15:31:01Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-17T15:31:31Z",
+            "open_issues": 208,
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16727,
+            "stars": 16734,
             "topics": [
               "aiot",
               "broker",
@@ -240,7 +240,7 @@
             "open_issues": 140,
             "owner": "moquette-io",
             "repo": "moquette",
-            "stars": 2456,
+            "stars": 2459,
             "topics": [
               "broker",
               "java",
@@ -263,7 +263,7 @@
             "language": "Kotlin",
             "license": "MIT",
             "last_commit": "2025-06-23T08:40:15Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "davidepianca98",
             "repo": "KMQTT",
             "stars": 297,
@@ -376,7 +376,7 @@
             "id": 315620558,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T10:06:55Z",
+            "last_commit": "2026-09-17T12:39:25Z",
             "open_issues": 8,
             "owner": "thingsboard",
             "repo": "tbmq",
@@ -425,12 +425,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Self-hosted MQTT broker with policy-controlled access and attributable decision records for industrial and regulated systems.",
+            "description": "Know why MQTT access was allowed or denied — policy-controlled MQTT for industrial systems, with attributable and reviewable access decisions.",
             "homepage": "https://trailmq.com",
             "id": 1119495508,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T05:08:23Z",
+            "last_commit": "2026-09-16T17:54:51Z",
             "open_issues": 12,
             "owner": "RainerGewalt",
             "repo": "TrailMQ",
@@ -445,13 +445,15 @@
               "iiot",
               "industrial-iot",
               "mqtt",
+              "mqtt-acl",
               "mqtt-authorization",
               "mqtt-broker",
               "mqtt-security",
               "pharma",
               "policy-enforcement",
               "regulated-industries",
-              "self-hosted"
+              "self-hosted",
+              "traceability"
             ]
           },
           "first_seen": "2026-08-28T21:31:55.943Z"
@@ -472,7 +474,7 @@
             "open_issues": 45,
             "owner": "vert-x3",
             "repo": "vertx-mqtt",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "client",
               "iot",
@@ -499,10 +501,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-15T10:28:59Z",
-            "open_issues": 70,
+            "open_issues": 66,
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2615,
+            "stars": 2616,
             "topics": [
               "actor-model",
               "aio",
@@ -550,7 +552,7 @@
             "open_issues": 32,
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 1269,
+            "stars": 1275,
             "topics": [
               "ai",
               "ai-agents",
@@ -676,10 +678,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-08-09T17:40:11Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "EdJoPaTo",
             "repo": "mqttui",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -726,7 +728,7 @@
             "id": 179662841,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T09:04:10Z",
+            "last_commit": "2026-09-17T14:11:35Z",
             "open_issues": 13,
             "owner": "hivemq",
             "repo": "mqtt-cli",
@@ -778,7 +780,7 @@
             "open_issues": 11,
             "owner": "getmockd",
             "repo": "mockd",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "api-mocking",
               "chaos-engineering",
@@ -978,7 +980,7 @@
             "open_issues": 0,
             "owner": "bapowell",
             "repo": "python-mqtt-client-shell",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "mqtt",
               "mqtt-client",
@@ -1798,7 +1800,7 @@
                 "open_issues": 45,
                 "owner": "vert-x3",
                 "repo": "vertx-mqtt",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "client",
                   "iot",
@@ -2076,7 +2078,7 @@
                 "open_issues": 203,
                 "owner": "dotnet",
                 "repo": "MQTTnet",
-                "stars": 5064,
+                "stars": 5063,
                 "topics": [
                   "anycpu",
                   "broker",
@@ -2827,7 +2829,7 @@
                     "open_issues": 567,
                     "owner": "knolleary",
                     "repo": "pubsubclient",
-                    "stars": 4013,
+                    "stars": 4014,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:55.943Z"
@@ -3007,10 +3009,10 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-13T13:53:26Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "arendst",
                     "repo": "Tasmota",
-                    "stars": 24761,
+                    "stars": 24762,
                     "topics": [
                       "arduino",
                       "automation",
@@ -3045,7 +3047,7 @@
                     "open_issues": 47,
                     "owner": "1technophile",
                     "repo": "OpenMQTTGateway",
-                    "stars": 4096,
+                    "stars": 4095,
                     "topics": [
                       "arduino",
                       "arduino-uno",
@@ -3761,11 +3763,11 @@
                 "id": 1105867170,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T15:13:23Z",
-                "open_issues": 237,
+                "last_commit": "2026-09-17T12:18:27Z",
+                "open_issues": 240,
                 "owner": "maziggy",
                 "repo": "bambuddy",
-                "stars": 2971,
+                "stars": 2975,
                 "topics": [
                   "3d-printer",
                   "3d-printing",
@@ -3800,7 +3802,7 @@
                 "open_issues": 14,
                 "owner": "KristianP26",
                 "repo": "ble-scale-sync",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "ble",
                   "body-composition",
@@ -4326,11 +4328,11 @@
                 "id": 128636610,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T15:24:48Z",
-                "open_issues": 458,
+                "last_commit": "2026-09-16T17:21:25Z",
+                "open_issues": 455,
                 "owner": "Koenkk",
                 "repo": "zigbee2mqtt",
-                "stars": 15637,
+                "stars": 15638,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -5399,7 +5401,7 @@
                 "open_issues": 0,
                 "owner": "Hypfer",
                 "repo": "Valetudo",
-                "stars": 9674,
+                "stars": 9676,
                 "topics": [
                   "cloud-free",
                   "dreame",
@@ -5462,7 +5464,7 @@
                 "open_issues": 70,
                 "owner": "zewelor",
                 "repo": "bt-mqtt-gateway",
-                "stars": 551,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:55.943Z"
@@ -5606,7 +5608,7 @@
                 "id": 119074391,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:00:37Z",
+                "last_commit": "2026-09-16T15:33:23Z",
                 "open_issues": 4,
                 "owner": "hobbyquaker",
                 "repo": "unifi2mqtt",
@@ -6140,7 +6142,7 @@
             "open_issues": 164,
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6183,
+            "stars": 6186,
             "topics": [
               "chart",
               "csv",
@@ -6627,7 +6629,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-16T15:27:44Z",
-            "open_issues": 9,
+            "open_issues": 0,
             "owner": "mqtt-smarthome",
             "repo": "mqtt-smarthome",
             "stars": 454,
@@ -6703,7 +6705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:33:18.435Z",
+    "last_updated": "2026-09-17T15:39:36.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of MQTT brokers, clients, tools, resources and more.",
